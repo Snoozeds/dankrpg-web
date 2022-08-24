@@ -5,7 +5,7 @@ title: Terms of Service
 # Terms of Service
 #### Last Updated: August 24, 2022
 ##### We reserve the right to change our Terms of Service at any time. We notify users of changes on [Github](https://github.com/Snoozeds/dankrpg-web/commits/main).
-##### By inviting DankRPG and using it, you agree to our Terms of Service/. You may opt out of using DankRPG at any time by removing it from a discord server you manage.
+##### By inviting DankRPG and using it, you agree to our Terms of Service. You may opt out of using DankRPG at any time by removing it from a discord server you manage.
 
 ## 1. Terms
 1.1. By using DankRPG ("DankRPG", "Dank RPG", "Bot"), you agree to comply with and be bound by these Terms. If you do not agree to these Terms, you are not authorized to use DankRPG.
