@@ -4,28 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Built with users in mind.',
+    title: 'Easy to Use',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        You are able to change DankRPG's settings and behaviour to suit your needs.
-        Either per owned server, or your own custom settings.
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Privacy focused.',
+    title: 'Focus on What Matters',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        DankRPG is 100% open-source, and free to use.
-        You can view the source code on <a href="https://github.com/Snoozeds/DankRPG">GitHub</a>.
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: 'Lots of variety.',
+    title: 'Powered by React',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        DankRPG features multiple economy and RPG systems, with different outcomes for commands, including random events.
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
       </>
     ),
   },

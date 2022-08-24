@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DankRPG',
-  tagline: 'The open source Discord economy & RPG bot.',
+  tagline: 'The open source discord economy bot',
   url: 'https://docs.dankrpg.xyz',
   baseUrl: '/',
   onBrokenLinks: 'warn',
