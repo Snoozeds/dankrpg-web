@@ -62,7 +62,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Intro',
+            label: 'Bot Docs',
+          },
+          {
+            href: 'https://apidocs.dankrpg.xyz'
+            label: 'API Docs'
+            position: 'left'
           },
           {
             href: 'https://github.com/Snoozeds/dankrpg-docs',
@@ -96,7 +101,7 @@ const config = {
             items: [
               {
                 label: 'DankRPG API',
-                href: 'https://api.dankrpg.xyz',
+                href: 'https://apidocs.dankrpg.xyz',
               },
               {
                 label: 'Nekos.rest API',
