@@ -71,11 +71,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Resources',
             items: [
               {
-                label: 'Intro',
+                label: 'Docs',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Privacy',
+                to: '/privacy/',
+              },
+              {
+                label: 'Terms',
+                to: '/tos/',
               },
             ],
           },
