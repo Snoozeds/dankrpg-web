@@ -30,6 +30,6 @@ We take reasonable steps to protect the information we collect from unauthorized
 Our Website may contain links to other websites. We are not responsible for the privacy practices of other websites. We recommend you read their privacy policies before using their services.
 
 ### 8. Concerns?
-If you have any concerns regarding this privacy policy, you can contact us through: \
-• Email: support@snoozeds.com \
-• Discord: https://discord.gg/Cc3xBSpWeB (preferred) \
+If you have any concerns regarding this privacy policy, you can contact us through: <br>
+• Email: support@snoozeds.com <br>
+• Discord: https://discord.gg/Cc3xBSpWeB (preferred) <br>
