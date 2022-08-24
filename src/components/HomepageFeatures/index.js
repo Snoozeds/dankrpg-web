@@ -5,7 +5,6 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Built with users in mind.',
-    Svg: '',
     description: (
       <>
         You are able to change DankRPG's settings and behaviour to suit your needs.
@@ -15,7 +14,6 @@ const FeatureList = [
   },
   {
     title: 'Privacy focused.',
-    Svg: '',
     description: (
       <>
         DankRPG is 100% open-source, and free to use.
@@ -25,7 +23,6 @@ const FeatureList = [
   },
   {
     title: 'Lots of variety.',
-    Svg: '',
     description: (
       <>
         DankRPG features multiple economy and RPG systems, with different outcomes for commands, including random events.
