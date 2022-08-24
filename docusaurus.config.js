@@ -47,6 +47,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+      {name: 'keywords', content: 'cooking, blog'},
+      {name: 'og:image', content: 'https://dankrpg.xyz/assets/dankrpg.png'}, 
+      {name: 'theme-color', content: '#24b8ff'}, ],
       navbar: {
         title: 'DankRPG',
         logo: {

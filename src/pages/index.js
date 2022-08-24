@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="DankRPG is an economy bot that prioritises privacy and user-experience.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
