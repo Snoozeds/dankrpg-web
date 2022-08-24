@@ -10,7 +10,7 @@ const config = {
   tagline: 'Official docs for DankRPG.',
   url: 'https://docs.dankrpg.xyz',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -37,11 +37,6 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -65,7 +60,6 @@ const config = {
             position: 'left',
             label: 'Intro',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Snoozeds/dankrpg-docs',
             label: 'GitHub',
