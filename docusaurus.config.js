@@ -92,6 +92,19 @@ const config = {
             ],
           },
           {
+            title: 'Other Websites',
+            items: [
+              {
+                label: 'DankRPG API',
+                href: 'https://api.dankrpg.xyz',
+              },
+              {
+                label: 'Nekos.rest API',
+                href: 'https://nekos.rest',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
               {
