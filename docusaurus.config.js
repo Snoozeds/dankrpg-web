@@ -92,33 +92,20 @@ const config = {
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.com/invite/Cc3xBSpWeB',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
             title: 'More',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/Snoozeds/DankRPG',
               },
+              {
+                label: 'Discord',
+                href: 'https://discord.com/invite/Cc3xBSpWeB',
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DankRPG, Built with` +"[Docusaurus](https://https://docusaurus.io/).",
+        copyright: `Copyright © ${new Date().getFullYear()} DankRPG, built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
