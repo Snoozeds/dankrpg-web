@@ -118,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DankRPG, Built with [Docusaurus](https://https://docusaurus.io/).`,
+        copyright: `Copyright © ${new Date().getFullYear()} DankRPG, Built with` +"[Docusaurus](https://https://docusaurus.io/).",
       },
       prism: {
         theme: lightCodeTheme,
