@@ -92,7 +92,7 @@ const config = {
             ],
           },
           {
-            title: 'Other Websites',
+            title: 'Websites',
             items: [
               {
                 label: 'DankRPG API',
