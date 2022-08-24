@@ -17,7 +17,7 @@ const FeatureList = [
     description: (
       <>
       DankRPG is 100% open-source, and free to use.
-      You can view the source code on <a href="https://github.com/Snoozeds/DankRPG">GitHub</a> <svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>.
+      You can view the source code on <a href="https://github.com/Snoozeds/DankRPG">GitHub</a><svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>.
       </>
     ),
   },
@@ -35,6 +35,9 @@ function Feature({title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
+      <br></br>
+      <br></br>
+      <br></br>
       <br></br>
       </div>
       <div className="text--center padding-horiz--md">
