@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title={`Home`}
       description="DankRPG is an economy bot that prioritises privacy and user-experience.">
       <HomepageHeader />
       <main>
