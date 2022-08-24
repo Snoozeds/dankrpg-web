@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DankRPG Docs',
-  tagline: 'Official docs for DankRPG.',
+  title: 'DankRPG',
+  tagline: 'The open source discord economy bot',
   url: 'https://docs.dankrpg.xyz',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -48,7 +48,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Docs',
+        title: 'DankRPG',
         logo: {
           alt: 'Logo',
           src: 'img/dankrpg.png',
