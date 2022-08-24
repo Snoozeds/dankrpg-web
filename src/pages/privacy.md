@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # DankRPG's Privacy Policy
 #### Last Updated: August 24, 2022
-#### We reserve the right to change this Privacy Policy at any time. We notify users of changes to our Policy on [Github](https://github.com/Snoozeds/dankrpg-web/commits/main).
+##### We reserve the right to change this Privacy Policy at any time. We notify users of changes to our Policy on [Github](https://github.com/Snoozeds/dankrpg-web/commits/main).
 
 ### 1. Agreement
 By using DankRPG ("Bot", "Website", "Service"), and its Website, you agree to this privacy policy ("Privacy Policy", "Policy") and its contents within. If you do not agree to this Policy, you may not use the Bot or Website.
@@ -30,6 +30,6 @@ We take reasonable steps to protect the information we collect from unauthorized
 Our Website may contain links to other websites. We are not responsible for the privacy practices of other websites. We recommend you read their privacy policies before using their services.
 
 ### 8. Concerns?
-If you have any concerns regarding this privacy policy, you can contact us through: 
-• Email: support@snoozeds.com
-• Discord: https://discord.gg/Cc3xBSpWeB (preferred) 
+If you have any concerns regarding this privacy policy, you can contact us through: |
+• Email: support@snoozeds.com |
+• Discord: https://discord.gg/Cc3xBSpWeB (preferred) |
