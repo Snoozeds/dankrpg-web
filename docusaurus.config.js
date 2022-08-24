@@ -9,7 +9,7 @@ const config = {
   title: 'DankRPG Docs',
   tagline: 'Official docs for DankRPG.',
   url: 'https://docs.dankrpg.xyz',
-  baseUrl: '/docs/intro/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
