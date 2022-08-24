@@ -102,6 +102,10 @@ const config = {
                 label: 'Nekos.rest API',
                 href: 'https://nekos.rest',
               },
+              {
+                label: 'Snoozeds',
+                href: 'https://snoozeds.com',
+              }
             ],
           },
           {
