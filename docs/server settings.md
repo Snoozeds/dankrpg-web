@@ -16,4 +16,8 @@ This command changes the prefix of DankRPG. This cannot be set to blank. By defa
 
 ### Permissions:
 `d!permissions <manageserver/admin>` <br />
-This command changes the permission required to change server settings, and use admin commands (addcoins, removecoins). By default, this is set to 'Manage Server'. Make sure to give permissions to users you trust, as this can be a potentially dangerous setting to change.
+This command changes the permission required to change server settings, and use admin commands (addcoins, removecoins). By default, this is set to 'Manage Server'
+
+:::caution
+Make sure to give permissions to users you trust, as this can be a potentially dangerous setting to change.
+:::
