@@ -60,7 +60,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'variables',
             position: 'left',
             label: 'Bot Docs',
           },
@@ -79,7 +79,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: '/docs/variables',
               },
               {
                 label: 'Privacy',
