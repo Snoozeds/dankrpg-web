@@ -95,17 +95,17 @@ const config = {
             title: 'Websites',
             items: [
               {
-                label: 'DankRPG API (Discontinued)',
-                href: 'https://apidocs.dankrpg.xyz',
+                label: 'Snoozeds',
+                href: 'https://snoozeds.com',
               },
               {
                 label: 'Nekos.rest API',
                 href: 'https://nekos.rest',
               },
               {
-                label: 'Snoozeds',
-                href: 'https://snoozeds.com',
-              }
+                label: 'DankRPG API (Discontinued)',
+                href: 'https://apidocs.dankrpg.xyz',
+              },
             ],
           },
           {
