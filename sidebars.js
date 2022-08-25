@@ -21,17 +21,23 @@ const sidebars = {
     {
       type: 'category',
       label: 'Intro',
-      items: ['Intro/welcome'],
+      items: ['welcome'],
+      collapsible: true,
+      collapsed: false,
     },
     {
       type: 'category',
       label: 'The Basics',
-      items: ['The-Basics/variables', 'The-Basics/achievements', 'The-Basics/user-settings', 'The-Basics/server-settings'],
+      items: ['variables', 'achievements', 'user-settings', 'server-settings'],
+      collapsible: true,
+      collapsed: true,
     },
     {
       type: 'category',
       label : 'Commands',
-      items: ['Commands/admin', 'Commands/economy'],
+      items: ['admin', 'economy'],
+      collapsible: true,
+      collapsed: true,
     }
   ],
 };
