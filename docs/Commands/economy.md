@@ -6,45 +6,45 @@ id: economy
 # Economy Commands
 
 ## profile
-**Optional arguments: `<user>`**
+**Optional arguments: `<user>`** <br />
 View your own profile or the profile of another user. Includes Coins, ATK and HP.
 
 ## daily
-**Related achievements: [Your First Time](https://dankrpg.xyz/docs/The%20Basics/achievements#2-your-first-time)**
+**Related achievements: [Your First Time](https://dankrpg.xyz/docs/The%20Basics/achievements#2-your-first-time)** <br />
 Collects your daily reward of 100 Coins.
 
 ## fight
 Start a random RPG fight. Has a chance for a random Coin drop.
 
 ## farm
-**Related achievements: [The Family Farm](https://dankrpg.xyz/docs/The%20Basics/achievements#4-the-family-farm)**
+**Related achievements: [The Family Farm](https://dankrpg.xyz/docs/The%20Basics/achievements#4-the-family-farm)** <br />
 Farm for crops. Heals you when you Have less than 15 of your MaxHP.
 
 ### forage
-Forage for materials. Chances for 15-20 of:
-- Stone (chance: 1/3) (sell price: 3 Coins ea.)
-- Slime (chance: 1/3) (sell price: 2 Coins ea.)
+Forage for materials. Chances for 15-20 of: <br />
+- Stone (chance: 1/3) (sell price: 3 Coins ea.) <br />
+- Slime (chance: 1/3) (sell price: 2 Coins ea.) <br />
 - Wood (chance: 1/3) (sell price: 1 Coin ea.)
 
 ### slots
-**Required Arguments: `<amount>`**
-**Rules: Must bet more than 50 Coins**
-**Related achievements: [Slots Addict](https://dankrpg.xyz/docs/The%20Basics/achievements#3-slots-addict)**
+**Required Arguments: `<amount>`** <br />
+**Rules: Must bet more than 50 Coins** <br />
+**Related achievements: [Slots Addict](https://dankrpg.xyz/docs/The%20Basics/achievements#3-slots-addict)** <br />
 Bet on a slot machine. Chance to win: 1/4.
 
 ### dungeon
 Start a dungeon. Has a chance for coins, or an enemy.
 
 ### mine
-**Rules: Mining takes 10 minutes of real time.**
-**Upgrades: Mining time can be reduced to 5m by buying a pickaxe (100 Stone).**
-Start mining. Random chances for:
-- 2-3 Diamonds (sell price: 100 Coins ea.)
-- 5-10 Gold (sell price: 20 Coins ea.)
+**Rules: Mining takes 10 minutes of real time.** <br />
+**Upgrades: Mining time can be reduced to 5m by buying a pickaxe (100 Stone).** <br />
+Start mining. Random chances for: <br />
+- 2-3 Diamonds (sell price: 100 Coins ea.) <br />
+- 5-10 Gold (sell price: 20 Coins ea.) <br />
 - 10-20 Stone (sell price: 3 Coins ea.)
 
 ### give
-**Required Arguments: `<user> <amount>`**
+**Required Arguments: `<user> <amount>`** <br />
 Give coins to another user.
 
 ### sellall
@@ -55,34 +55,34 @@ This will sell all your items (stone, slime, wood, rabbit, moose, deer, fox). So
 :::
 
 ### pethunt
-**Rules: Requires a pet, takes 10 minutes of real time.**
-**Upgrades: Your pet hunts double the animals (4 animals) after buying Bait (100 Slime)**
-Your pet will hunt for you. Random chances for:
-- Rabbit (sell price: 125 Coins ea.)
-- Moose (sell price: 100 Coins ea.)
-- Deer (sell price: 75 Coins ea.)
+**Rules: Requires a pet, takes 10 minutes of real time.** <br />
+**Upgrades: Your pet hunts double the animals (4 animals) after buying Bait (100 Slime)** <br />
+Your pet will hunt for you. Random chances for: <br />
+- Rabbit (sell price: 125 Coins ea.) <br />
+- Moose (sell price: 100 Coins ea.) <br />
+- Deer (sell price: 75 Coins ea.) <br />
 - Fox (sell price: 50 Coins ea.)
 
 ### hunt
-**Upgrades: You hunt double the animals (2 animals) after buying Bait (100 Slime)**
-Go hunting yourself instantly. **Has a 1/4 chance to be attacked by an animal. If you have less than or equal to 30HP, you will die.**
-Random chances for 1 of:
-- Rabbit (sell price: 125 Coins ea.)
-- Moose (sell price: 100 Coins ea.)
-- Deer (sell price: 75 Coins ea.)
+**Upgrades: You hunt double the animals (2 animals) after buying Bait (100 Slime)** <br />
+Go hunting yourself instantly. **Has a 1/4 chance to be attacked by an animal. If you have less than or equal to 30HP, you will die.** <br />
+Random chances for 1 of: <br />
+- Rabbit (sell price: 125 Coins ea.) <br />
+- Moose (sell price: 100 Coins ea.) <br />
+- Deer (sell price: 75 Coins ea.) <br />
 - Fox (sell price: 50 Coins ea.)
 
 ### blackjack
-**Required Arguments: `<bet amount>`**
-**Rules: Not an actual game of blackjack, due to my limited coding knowledge.**
-You start with a random hand of 12-13 cards.
-The dealer starts with a random hand of 10-12 cards.
+**Required Arguments: `<bet amount>`** <br />
+**Rules: Not an actual game of blackjack, due to my limited coding knowledge.** <br />
+You start with a random hand of 12-13 cards. <br />
+The dealer starts with a random hand of 10-12 cards. <br />
 Both hitting and standing have a 1/3 chance of winning double your bet.
 
 ### gamble
-**Required Arguments: `<bet amount>`**
+**Required Arguments: `<bet amount>`** <br />
 Gamble with your coins. Has a 1/3 chance of winning double your bet.
 
 ### inventory
-**Optional Arguments: `<user>`**
+**Optional Arguments: `<user>`** <br />
 View your own inventory or the inventory of another user. Also displays the sell price of all your/another user's items combined.

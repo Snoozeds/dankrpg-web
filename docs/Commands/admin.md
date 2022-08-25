@@ -9,9 +9,9 @@ id: admin
 View the current server settings.
 
 ## addcoins
-**Required Arguments: `<user> <amount>`**
+**Required Arguments: `<user> <amount>`** <br />
 Add coins to a user.
 
 ## removecoins
-**Required Arguments: `<user> <amount>`**
+**Required Arguments: `<user> <amount>`** <br />
 Remove coins from a user.
