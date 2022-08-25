@@ -5,7 +5,6 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Built with users in mind.',
-    Svg: require('@site/static/img/user.svg').default,
     description: (
       <>
         You are able to change DankRPG's settings and behaviour to suit your needs.
@@ -15,7 +14,6 @@ const FeatureList = [
   },
   {
     title: 'Privacy focused.',
-    Svg: require('@site/static/img/secret.svg').default,
     description: (
       <>
       DankRPG is 100% open-source, and free to use.
@@ -25,7 +23,6 @@ const FeatureList = [
   },
   {
     title: 'Lots of variety.',
-    Svg: require('@site/static/img/check.svg').default,
     description: (
       <>
       DankRPG features multiple economy and RPG systems, with different outcomes for commands, including random events.
@@ -34,11 +31,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-      <Svg className={styles.featureSvg} role="img" />
+      <h3>Features:</h3>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
