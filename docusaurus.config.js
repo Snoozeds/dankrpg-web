@@ -60,7 +60,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro/welcome',
+            docId: 'intro',
             position: 'left',
             label: 'Bot Docs',
           },
