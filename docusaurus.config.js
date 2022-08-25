@@ -59,12 +59,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Bot Docs',
-          },
-          {
             href: 'https://github.com/Snoozeds/dankrpg-docs',
             label: 'GitHub',
             position: 'right',
