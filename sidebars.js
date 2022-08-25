@@ -35,7 +35,7 @@ const sidebars = {
     {
       type: 'category',
       label : 'Commands',
-      items: ['Commands/admin', 'Commands/economy'],
+      items: ['Commands/admin', 'Commands/economy', 'Commands/social', 'Commands/fun', 'Commands/misc'],
       collapsible: true,
       collapsed: true,
     }
