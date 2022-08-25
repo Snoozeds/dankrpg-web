@@ -3,7 +3,7 @@ title: Privacy Policy
 ---
 
 # DankRPG's Privacy Policy
-#### Last Updated: August 24, 2022
+#### Last Updated: August 24, 2022.
 ##### We reserve the right to change this Privacy Policy at any time. We notify users of changes to our Policy on [Github](https://github.com/Snoozeds/dankrpg-web/commits/main).
 
 ### 1. Agreement
