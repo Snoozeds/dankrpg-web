@@ -6,11 +6,11 @@ id: fun
 # Fun Commands
 
 ## repeat
-**Required Arguments: `<text>`** <br />
+**Required arguments: `<text>`** <br />
 DankRPG will repeat the text you give it.
 
 ## 8ball
-**Required Arguments: `<question>`** <br />
+**Required arguments: `<question>`** <br />
 The magic 8ball will answer your question.
 
 ## coinflip

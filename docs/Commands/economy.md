@@ -27,7 +27,7 @@ Forage for materials. Chances for 15-20 of: <br />
 - Wood (chance: 1/3) (sell price: 1 Coin ea.)
 
 ## slots
-**Required Arguments: `<amount>`** <br />
+**Required arguments: `<amount>`** <br />
 **Rules: Must bet more than 50 Coins** <br />
 **Related achievements: [Slots Addict](https://dankrpg.xyz/docs/The%20Basics/achievements#3-slots-addict)** <br />
 Bet on a slot machine. Chance to win: 1/4.
@@ -44,7 +44,7 @@ Start mining. Random chances for: <br />
 - 10-20 Stone (sell price: 3 Coins ea.)
 
 ## give
-**Required Arguments: `<user> <amount>`** <br />
+**Required arguments: `<user> <amount>`** <br />
 Give coins to another user.
 
 ## sellall
@@ -73,16 +73,16 @@ Random chances for 1 of: <br />
 - Fox (sell price: 50 Coins ea.)
 
 ## blackjack
-**Required Arguments: `<bet amount>`** <br />
+**Required arguments: `<bet amount>`** <br />
 **Rules: Not an actual game of blackjack, due to my limited coding knowledge.** <br />
 You start with a random hand of 12-13 cards. <br />
 The dealer starts with a random hand of 10-12 cards. <br />
 Both hitting and standing have a 1/3 chance of winning double your bet.
 
 ## gamble
-**Required Arguments: `<bet amount>`** <br />
+**Required arguments: `<bet amount>`** <br />
 Gamble with your coins. Has a 1/3 chance of winning double your bet.
 
 ## inventory
-**Optional Arguments: `<user>`** <br />
+**Optional arguments: `<user>`** <br />
 View your own inventory or the inventory of another user. Also displays the sell price of all your/another user's items combined.
