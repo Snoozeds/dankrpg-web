@@ -65,11 +65,6 @@ const config = {
             label: 'Bot Docs',
           },
           {
-            href: 'https://apidocs.dankrpg.xyz',
-            label: 'API Docs',
-            position: 'left',
-          },
-          {
             href: 'https://github.com/Snoozeds/dankrpg-docs',
             label: 'GitHub',
             position: 'right',
@@ -100,7 +95,7 @@ const config = {
             title: 'Websites',
             items: [
               {
-                label: 'DankRPG API',
+                label: 'DankRPG API (Discontinued)',
                 href: 'https://apidocs.dankrpg.xyz',
               },
               {
