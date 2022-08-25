@@ -48,7 +48,7 @@ Start mining. Random chances for:
 Give coins to another user.
 
 ### sellall
-Sells all your items in your [inventory](https://dankrpg.xyz/docs/Comamnds/economy).
+Sells all your items in your [inventory](#inventory).
 
 :::danger
 This will sell all your items (stone, slime, wood, rabbit, moose, deer, fox). Some of these items can be used to craft things, and you can sell items individually.
