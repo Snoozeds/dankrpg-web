@@ -43,6 +43,21 @@ const config = {
       {name: 'keywords', content: 'bot, discord, economy bot, rpg bot, dankrpg, dank rpg'},
       {name: 'og:image', content: 'https://dankrpg.xyz/assets/dankrpg.png'}, 
       {name: 'theme-color', content: '#24b8ff'},],
+      algolia: {
+        appId: 'WY8FLWV5YJ',
+  
+        apiKey: 'd7bdc6af252da8a79f56d8eaa9daaf1c',
+  
+        indexName: 'dankrpg',
+  
+        contextualSearch: true,
+  
+        externalUrlRegex: 'external\\.com|domain\\.com',
+  
+        searchParameters: {},
+  
+        searchPagePath: 'search',
+      },
       navbar: {
         title: 'DankRPG',
         logo: {
@@ -120,15 +135,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      algolia: {
-        appId: 'WY8FLWV5YJ',
-        apiKey: 'e7a7b9b2670afb46e220ca5b016a40f1', // public api key.
-        indexName: 'dankrpg',
-        contextualSearch: true,
-        externalUrlRegex: 'external\\.com|domain\\.com',
-        searchParameters: {},
-        searchPagePath: 'search',
       },
     }),
 };
