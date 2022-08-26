@@ -6,7 +6,7 @@ id: dev
 # Dev Commands
 
 :::info
-These commands are for when you [self-host DankRPG](https://github.com/Snoozeds/DankRPG).
+These commands are for when you [self-host DankRPG](https://github.com/Snoozeds/DankRPG#forewarning-always-download-the-latest-version-from-releases-the-main-branch-will-be-unstable).
 :::
 
 ## eval
