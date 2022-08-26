@@ -129,7 +129,6 @@ const config = {
         externalUrlRegex: 'external\\.com|domain\\.com',
         searchParameters: {},
         searchPagePath: 'search',
-        debug: true,
       },
     }),
 };
