@@ -27,3 +27,6 @@ Welcome to DankRPG's documentation. DankRPG is a Discord Economy & RPG bot. This
 - [Invite DankRPG](https://dankrpg.xyz/invite)
 - [Support Server](https://discord.com/invite/Cc3xBSpWeB)
 - [Source Code](https://github.com/Snoozeds/DankRPG)
+
+## Disclaimer
+DankRPG is not affiliated with Discord, Inc. or any of its subsidiaries.
