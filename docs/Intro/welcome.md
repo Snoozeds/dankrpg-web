@@ -7,19 +7,19 @@ Welcome to DankRPG's documentation. DankRPG is a Discord Economy & RPG bot. This
 
 ## Jump to:
 
-&bullet; The Basics
-    [&#x25E6; Variables](https://dankrpg.xyz/docs/The-Basics/variables)
-    [&#x25E6; Achievements](https://dankrpg.xyz/docs/The-Basics/achievements)
-    [&x25E6; User Settings](https://dankrpg.xyz/docs/The-Basics/user-settings)
-    [&x25E6; Server Settings](https://dankrpg.xyz/docs/The-Basics/server-settings)
+&bullet; The Basics <br />
+    [&#x25E6; Variables](https://dankrpg.xyz/docs/The-Basics/variables) <br />
+    [&#x25E6; Achievements](https://dankrpg.xyz/docs/The-Basics/achievements) <br />
+    [&x25E6; User Settings](https://dankrpg.xyz/docs/The-Basics/user-settings) <br />
+    [&x25E6; Server Settings](https://dankrpg.xyz/docs/The-Basics/server-settings) <br />
 
-&bullet; Commands
-    [&#x25E6; Admin](https://dankrpg.xyz/docs/Commands/admin)
-    [&#x25E6; Economy](https://dankrpg.xyz/docs/Commands/economy)
-    [&#x25E6; Social](https://dankrpg.xyz/docs/Commands/social)
-    [&#x25E6; Misc](https://dankrpg.xyz/docs/Commands/misc)
-    [&#x25E6; Shop](https://dankrpg.xyz/docs/Commands/shop)
-    [&#x25E6; Dev](https://dankrpg.xyz/docs/Commands/dev)
+&bullet; Commands <br />
+    [&#x25E6; Admin](https://dankrpg.xyz/docs/Commands/admin) <br />
+    [&#x25E6; Economy](https://dankrpg.xyz/docs/Commands/economy) <br />
+    [&#x25E6; Social](https://dankrpg.xyz/docs/Commands/social) <br />
+    [&#x25E6; Misc](https://dankrpg.xyz/docs/Commands/misc) <br />
+    [&#x25E6; Shop](https://dankrpg.xyz/docs/Commands/shop) <br />
+    [&#x25E6; Dev](https://dankrpg.xyz/docs/Commands/dev) <br />
 
 ## Useful Links
 - [Privacy Policy](https://dankrpg.xyz/privacy)
