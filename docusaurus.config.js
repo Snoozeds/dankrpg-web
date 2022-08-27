@@ -49,14 +49,6 @@ const config = {
         apiKey: 'd7bdc6af252da8a79f56d8eaa9daaf1c',
   
         indexName: 'dankrpg',
-  
-        contextualSearch: true,
-  
-        externalUrlRegex: 'external\\.com|domain\\.com',
-  
-        searchParameters: {},
-  
-        searchPagePath: 'search',
       },
       navbar: {
         title: 'DankRPG',
