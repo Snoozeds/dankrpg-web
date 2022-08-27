@@ -8,18 +8,18 @@ Welcome to DankRPG's documentation. DankRPG is a Discord Economy & RPG bot. This
 ## Jump to:
 
 &bullet; The Basics <br />
-    [&#x25E6; Variables](The-Basics/variables) <br />
-    [&#x25E6; Achievements](The-Basics/achievements) <br />
-    [&#x25E6; User Settings](The-Basics/user-settings) <br />
-    [&#x25E6; Server Settings](The-Basics/server-settings) <br />
+    [&#x25E6; Variables](./The-Basics/variables.md) <br />
+    [&#x25E6; Achievements](./The-Basics/achievements) <br />
+    [&#x25E6; User Settings](./The-Basics/user-settings) <br />
+    [&#x25E6; Server Settings](./The-Basics/server-settings) <br />
 
 &bullet; Commands <br />
-    [&#x25E6; Admin](Commands/admin) <br />
-    [&#x25E6; Economy](Commands/economy) <br />
-    [&#x25E6; Social](Commands/social) <br />
-    [&#x25E6; Misc](Commands/misc) <br />
-    [&#x25E6; Shop](Commands/shop) <br />
-    [&#x25E6; Dev](Commands/dev) <br />
+    [&#x25E6; Admin](./Commands/admin) <br />
+    [&#x25E6; Economy](./Commands/economy) <br />
+    [&#x25E6; Social](./Commands/social) <br />
+    [&#x25E6; Misc](./Commands/misc) <br />
+    [&#x25E6; Shop](./Commands/shop) <br />
+    [&#x25E6; Dev](./Commands/dev) <br />
 
 ## Useful Links
 - [Privacy Policy](https://dankrpg.xyz/privacy)
