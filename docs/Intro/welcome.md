@@ -10,8 +10,8 @@ Welcome to DankRPG's documentation. DankRPG is a Discord Economy & RPG bot. This
 &bullet; The Basics <br />
     [&#x25E6; Variables](./The-Basics/variables.md) <br />
     [&#x25E6; Achievements](./The-Basics/achievements.md) <br />
-    [&#x25E6; User Settings](.The-Basics/user%20%settings.md) <br />
-    [&#x25E6; Server Settings](./The-Basics/server%20%settings.md) <br />
+    [&#x25E6; User Settings](.The-Basics/user-settings.md) <br />
+    [&#x25E6; Server Settings](./The-Basics/server-settings.md) <br />
 
 &bullet; Commands <br />
     [&#x25E6; Admin](./Commands/admin.md) <br />
