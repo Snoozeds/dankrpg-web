@@ -43,13 +43,6 @@ const config = {
       {name: 'keywords', content: 'bot, discord, economy bot, rpg bot, dankrpg, dank rpg'},
       {name: 'og:image', content: 'https://dankrpg.xyz/assets/dankrpg.png'}, 
       {name: 'theme-color', content: '#24b8ff'},],
-      algolia: {
-        appId: 'WY8FLWV5YJ',
-  
-        apiKey: 'd7bdc6af252da8a79f56d8eaa9daaf1c',
-  
-        indexName: 'dankrpg',
-      },
       navbar: {
         title: 'DankRPG',
         logo: {
