@@ -4,7 +4,7 @@ id: changelog
 
 # Changelog
 
-# Version 24:
+## Version 24:
 **Fixes/Changes:** <br />
 - Upgrade to aoi 5.5.5 <br />
 - Added server banners to `serverinfo` <br />
@@ -20,7 +20,7 @@ id: changelog
 
 **Full Changelog**: https://github.com/Snoozeds/DankRPG/compare/v23...v24 <br />
 
-# Version 23:
+## Version 23:
 **Fixes/Changes:** <br />
 - Fixed URL in "avatar" when mentioning others. <br />
 - Put variables in a separate file, meaning way less restarts. <br />
@@ -39,7 +39,7 @@ id: changelog
 
 Github commits changelog :https://github.com/SnoozedsGithub/DankRPG/compare/v22...v23 <br />
 
-# Version 22:
+## Version 22:
 **Fixes/Changes:** <br />
 - Upgraded to version 5.5.0 of aoi.js. (more stability, less ram usage) <br />
 - Fixed errors in: bet, slots, blackjack <br />
@@ -52,7 +52,7 @@ Github commits changelog :https://github.com/SnoozedsGithub/DankRPG/compare/v22.
 /info <br />
 /coinflip <br />
 
-# Version 21:
+## Version 21:
 **Fixes/Changes:** <br />
 - Fixed fight giving the incorrect coin amount. <br />
 - Fixed farm killing users incorrectly. <br />
@@ -68,7 +68,7 @@ Github commits changelog :https://github.com/SnoozedsGithub/DankRPG/compare/v22.
 New command: blackjack (bj) <br />
 New command: gamble (bet) <br />
 
-# Version 20:
+## Version 20:
 **Fixes/Changes:** <br />
 - DankRPG now responds a lot faster, and restarts faster. <br />
 **Fight:** <br />
@@ -85,7 +85,7 @@ New command: gamble (bet) <br />
 **New:** <br />
 - New command: "serversettings" <br />
 
-# Version 19:
+## Version 19:
 **Fixes/Changes:** <br />
 - Reduced the bet minimum for slots to 50 coins. <br />
 - Fixed hp left displaying incorrectly in fight <br />
@@ -106,7 +106,7 @@ New command: gamble (bet) <br />
 **Known issues:** <br />
 - Cooldown not displaying time correctly when >1s <br />
 
-# Version 18
+## Version 18
 **Changes:** <br />
 - We're going to be using an xy version system now instead of 1.xy. <br />
 - A couple website changes for better mobile support. <br />
@@ -127,7 +127,7 @@ New command: gamble (bet) <br />
 **Known bugs:** <br />
 - You are able to change the value of settings, but an embed doesn't display. <br />
 
-# v1.17
+## v1.17
 - Fixed "Marry" not working <br />
 - Added a check to "Marry" to ensure the user is in the same server as the person they're trying to marry. <br />
 - Added a check to "Accept" to make sure either user (sender, accepter) isn't already married. <br />
@@ -136,7 +136,7 @@ New command: gamble (bet) <br />
 - Fixed certain commands not working <br />
 - New command: "neko" <br />
 
-# v1.16 - Refreshed
+## v1.16 - Refreshed
 **Fixes/Changes:** <br />
 - Fixed various bugs <br />
 - Added ID support to interactions <br />
@@ -154,7 +154,7 @@ New command: gamble (bet) <br />
 - New command : uptime <br />
 - You now get sent a DM upon voting <br />
 
-# v1.15 - Hotfix (MAJOR)
+## v1.15 - Hotfix (MAJOR)
 **Bug Fixes:**
 - Fixed cat rewards not working + decreased chance and increased cooldown <br />
 - Fixed vote rewards always being true (incorrect auth) <br />
@@ -169,7 +169,7 @@ New command: gamble (bet) <br />
 - Added new event to 'dungeon' <br />
 - New category of commands listed: "stat commands" <br />
 
-# v1.14 - The Social Update
+## v1.14 - The Social Update
 **Fixes/Changes:** <br />
 - Changed the top.gg voting api to their own, for security. <br />
 - "Kill" has been fixed, and will now correctly send an error message for users with family mode on. <br />
@@ -188,7 +188,7 @@ New command: gamble (bet) <br />
 - Marriage [optional:<@>] <br />
 - Divorce <br />
 
-# v1.13 - The Mining Update (x2)
+## v1.13 - The Mining Update (x2)
 **Additions:** <br />
 - support for unix timestamps in 'whois' <br />
 - new command: 'give (user) (amount) ' (give coins to other users) <br />
@@ -200,7 +200,7 @@ New command: gamble (bet) <br />
 **Changes/Fixes:** <br />
 - Fixed 'hug' images not previewing, cloudflare blocked requests for all APIs. <br />
 
-# v1.12 - Pets
+## v1.12 - Pets
 **New things:** <br />
 - Pets <br />
 
@@ -218,7 +218,7 @@ New command: gamble (bet) <br />
 - abandon: abandon your pet (requires word confirmation, 1d cooldown) <br />
 - petname: (namepet, name pet, pet name) rename your pet <br />
 
-# v1.11 - Rewritten
+## v1.11 - Rewritten
 **New commands:** <br />
 - Weekly <br />
 - Forage <br />
@@ -242,7 +242,7 @@ New command: gamble (bet) <br />
 - Being completely open source <br />
 - Heal price scaling as you lose more HP, much better than spam buying and using bandages. <br />
 
-# v1.10 - QoL
+## v1.10 - QoL
 - You can now bet all your coins by adding all to a blackjack command (e.g d!bj all) <br />
 - Increased rewards from dungeon <br />
 - Yet another website update. <br />
@@ -253,7 +253,7 @@ New command: gamble (bet) <br />
 - You can now view other people's inventories by mentioning them. <br />
 - Various bug fixes/changes. <br />
 
-# v1.9 - The Crew Update
+## v1.9 - The Crew Update
 - You can no longer set the bal of users to non-numbers <br />
 - Fixed setting the bal of a username with multiple words <br />
 - Fixed resetting the bal of a username with multiple words <br />
@@ -267,7 +267,7 @@ New command: gamble (bet) <br />
 - Added phone call sends: Hello.. is this the imposter?, Is this the imposter from among us?, Is this the real (username)? <br />
 - Set blackjack winning values to proper (x2 instead of... x4?, meaning you NOW earn your bet back x2; instead of: your bet x2, plus the dealers bet {your bet x2}) <br />
 
-# v1.8 - The Spooky Update P2
+## v1.8 - The Spooky Update P2
 **New commands:** <br />
 - Achievements : earn achievements while you use Dank RPG! <br />
 - Cooldowns/cd: view cooldowns for daily and work <br />
@@ -278,7 +278,7 @@ New command: gamble (bet) <br />
 - Dank RPG can no longer ping people in repeat commands <br />
 - Updated the stats command to show actually existing commands <br />
 
-# v1.7 - The Spooky Update P1
+## v1.7 - The Spooky Update P1
 **New commands:** <br />
 - Die: kill yourself to reset your stats - or somehow "die" suddenly for users with FFM. <br />
 - Suggest: Send suggestions to me! <br />
@@ -289,7 +289,7 @@ New command: gamble (bet) <br />
 - New context to server settings prefix when no prefix is provided <br />
 - New event! Randomly, when running the work command, an embed may show up giving 500 coins to whoever clicks a button first. <br />
 
-# v1.6 - The Robbing Update
+## v1.6 - The Robbing Update
 **New Commands:** <br />
 - 8ball: Ask the magic 8ball questions <br />
 - Rob: rob random places! <br />
@@ -304,7 +304,7 @@ New command: gamble (bet) <br />
 - Fixed bug that allowed users to spam all 100 commands at once. <br />
 - All roleplay image commands now work <br />
 
-# v1.5 - ::Revisited
+## v1.5 - ::Revisited
 **New Commands:** <br />
 - Ship: ship you and another user together <br />
 - Blackjack (Alias: bj): bet on winning a blackjack game <br />
@@ -325,7 +325,7 @@ Pings: now you can disable commands that ping you. <br />
 **Fixes:** <br />
 - The vote command now works as intended. <br />
 
-# v1.4 - Fight Update
+## v1.4 - Fight Update
 The fight system has had a revamp, involving a "turn-based" system. <br />
 
 **New commands:** <br />
@@ -344,7 +344,7 @@ These commands can be used by adding: <@mention> or UserID or Username#0000 on t
 - The phone call command now sends different responses when mentioning youself, a bot, or Dank RPG itself. <br />
 - The avatar command now outputs higher resolution images, and you can now use it using user IDs. <br />
 
-# v1.3 - QoL Update
+## v1.3 - QoL Update
 - The daily command now looks different, with unique cooldown info. <br />
 - The daily command now has streaks! <br />
 - daily <br />
@@ -354,7 +354,7 @@ These commands can be used by adding: <@mention> or UserID or Username#0000 on t
 - The trash command now looks normal, thanks to Devs-Hub's image API. <br />
 - New facts command, thanks to PopCat's image API. <br />
 
-# v1.2 - Dungeons Update
+## v1.2 - Dungeons Update
 **New Stuff:** <br />
 - New command: dungeon  <br />
 
@@ -364,16 +364,16 @@ These commands can be used by adding: <@mention> or UserID or Username#0000 on t
 - Removed tips from fight. Did the same as armour basically. Code became about 200 lines long. <br />
 - Added more slash commands (type / in discord to see them!). If you own a server, please make sure the bot has slash commands permissions, if you want them to be available. <br />
 
-# v1.1 - Tips Update
+## v1.1 - Tips Update
 - Added new setting: Tips <br />
 - Get tips when using certain commands. The commands right no are fight and daily. <br />
 - Versions will now go up in 0.1 instead of 0.01. <br />
 
-# v1.0.9 - Bugfix + mine upgrade
+## v1.0.9 - Bugfix + mine upgrade
 - Fixed various bugs that allowed you to have infinite or broken variables. <br />
 - New mine command + new things to mine. <br />
 
-# v1.0.8 (Quest Update)
+## v1.0.8 (Quest Update)
 **New Stuff:** <br />
 - New Quest system to replace the old one. Use quest for more info. <br />
 - New Taxi customer: Beater <br />
@@ -388,7 +388,7 @@ These commands can be used by adding: <@mention> or UserID or Username#0000 on t
 - Mentions of 'a HP Increase' have been changed to 'an HP Increase' <br />
 - Removed more 'dank' prefix mentions <br />
 
-# v1.0.7 (Social Update)
+## v1.0.7 (Social Update)
 - Versions will now have names to make them less confusing. <br />
 - New Item: Phone <br />
 
@@ -399,7 +399,7 @@ These commands can be used by adding: <@mention> or UserID or Username#0000 on t
 - phone rps <br />
 - phone call <@user> <br />
 
-# v1.0.6
+## v1.0.6
 - Commands are no longer case sensitive. <br />
 - You can now change Dank RPG's prefix with server settings. <br />
 - Default prefix changed to d! <br />
@@ -408,17 +408,17 @@ These commands can be used by adding: <@mention> or UserID or Username#0000 on t
 **New commands:** <br />
 - tips <br />
 
-# v1.0.5
+## v1.0.5
 **New commands:** <br />
 - dank farm <br />
 - dank farm shop <br /> <br />
 - Bot added to top.gg! <br />
 - Vote rewards added (dank vote, dank open vote) <br />
 
-# v1.0.4
+## v1.0.4
 - Pets are now out! <br />
 
-# v1.0.3
+## v1.0.3
 - You can now have different positions in the taxi business. See 'Commands' for more info. <br />
 **New commands:** <br />
 - dank dogfact <br />
@@ -429,17 +429,17 @@ These commands can be used by adding: <@mention> or UserID or Username#0000 on t
 - dank merchant <br />
 - When you ping the bot, it now displays the prefix and help command. <br />
 
-# v1.0.2
+## v1.0.2
 - New Business: Hospital <br />
 - New commands: bs, bl, hospital <br />
 - New item: Armour <br />
 - Removed dank fish <br />
 
-# v1.0.1
+## v1.0.1
 - New commands: dank mine, dank ms, dank help item, dank item (item), dank cf (bet), dank changelog, dank support, crates, taxi, b, c, bu, stats <br />
 - New items: Ruby, Coal, Chicken, Daily Crate, Taxi, Taxi business <br />
 - dank i changed to dank inv <br />
 - support server created <br />
 
-# v1.0
+## v1.0
 - Bot created. <br />
