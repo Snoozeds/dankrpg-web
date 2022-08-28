@@ -30,8 +30,8 @@ id: changelog
 
 **New:** <br />
 - Banner <@user>: Returns banner of user's banner (or author) <br />
-- /say <message>: Repeats the message given. <br />
-- /userinfo [member]: Same as 'userinfo'. <br />
+- /say (message): Repeats the message given. <br />
+- /userinfo \[member\]: Same as 'userinfo'. <br />
 - Settings are now in a separate folder (GitHub) <br />
 - Added the current version number to "info". <br />
 - Added a ton more aliases. <br />
@@ -98,7 +98,7 @@ New command: gamble (bet) <br />
 **New:** <br />
 - New command: privacy <br />
 - New command: hunt <br />
-- New commands: sell<animal>, sell<miningItem> <br />
+- New commands: sell(animal), sell(miningItem) <br />
 - New command: itemlist <br />
 - New shop items: pickaxe, bait <br />
 - Added a MaxHP cap of 1000. <br />
@@ -191,7 +191,7 @@ New command: gamble (bet) <br />
 # v1.13 - The Mining Update (x2)
 **Additions:** <br />
 - support for unix timestamps in 'whois' <br />
-- new command: 'give <user> <amount> ' (give coins to other users) <br />
+- new command: 'give (user) (amount) ' (give coins to other users) <br />
 - new command: startdungeon (plan on upgrading this later on) <br />
 - new command: mine, sellall <br />
 - 5 new 'hug' images <br />
@@ -264,7 +264,7 @@ New command: gamble (bet) <br />
 - New commands: crew, crew start (barebones system, will later allow invites of members) <br />
 - New achievement: "Good luck..." - Start a dungeon on the hardest difficulty (Current: hard) <br />
 - Updated the 'commands' section on gitbook to include the latest commands <br />
-- Added phone call sends: Hello.. is this the imposter?, Is this the imposter from among us?, Is this the real <username>? <br />
+- Added phone call sends: Hello.. is this the imposter?, Is this the imposter from among us?, Is this the real (username)? <br />
 - Set blackjack winning values to proper (x2 instead of... x4?, meaning you NOW earn your bet back x2; instead of: your bet x2, plus the dealers bet {your bet x2}) <br />
 
 # v1.8 - The Spooky Update P2
@@ -330,14 +330,14 @@ The fight system has had a revamp, involving a "turn-based" system. <br />
 
 **New commands:** <br />
 - hack: economy command that allows you to 'hack' businesses for coins. <br />
-- owo <text>: be bullied for being a weeb.
+- owo (text): be bullied for being a weeb.
 - gtn: guess the number correctly and earn Coins. <br />
 - pp size <@mention>: gets the pp size of someone. Disabled if family mode is turned on. <br /> <br />
 
 New admin commands section. <br />
-- set bal <amount> <br />
+- set bal (amount) <br />
 - reset <br />
-These commands can be used by adding: <@mention> or <UserID> or Username#0000 on to the end. <br />
+These commands can be used by adding: <@mention> or UserID or Username#0000 on to the end. <br />
 
 **Changes:** <br />
 - The phone call command no longer pings the mentioned user. <br />
@@ -394,7 +394,7 @@ These commands can be used by adding: <@mention> or <UserID> or Username#0000 on
 
 **New commands:** <br />
 - use phone <br />
-- phone status <message> <br />
+- phone status (message) <br />
 - phone profile <@user> <br />
 - phone rps <br />
 - phone call <@user> <br />
@@ -436,7 +436,7 @@ These commands can be used by adding: <@mention> or <UserID> or Username#0000 on
 - Removed dank fish <br />
 
 # v1.0.1
-- New commands: dank mine, dank ms, dank help item, dank item <item>, dank cf <bet>, dank changelog, dank support, crates, taxi, b, c, bu, stats <br />
+- New commands: dank mine, dank ms, dank help item, dank item (item), dank cf (bet), dank changelog, dank support, crates, taxi, b, c, bu, stats <br />
 - New items: Ruby, Coal, Chicken, Daily Crate, Taxi, Taxi business <br />
 - dank i changed to dank inv <br />
 - support server created <br />
