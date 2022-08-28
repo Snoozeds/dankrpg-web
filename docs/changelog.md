@@ -272,7 +272,7 @@ New command: gamble (bet) <br />
 - Achievements : earn achievements while you use Dank RPG! <br />
 - Cooldowns/cd: view cooldowns for daily and work <br />
 - Trickortreat: new halloween event! Earn candies to sell... or lose coins by getting a trick! <br />
-- Sell candy <amount>: sell the candy you've earnt from trickortreat <br />
+- Sell candy (amount): sell the candy you've earnt from trickortreat <br />
 
 **Changes:** <br />
 - Dank RPG can no longer ping people in repeat commands <br />
