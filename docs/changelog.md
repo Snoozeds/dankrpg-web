@@ -424,7 +424,7 @@ These commands can be used by adding: <@mention> or UserID or Username#0000 on t
 - dank dogfact <br />
 - dank catfact <br />
 - dank birdfact <br />
-- dank comment <text> <br />
+- dank comment (text) <br />
 - dank boss <br />
 - dank merchant <br />
 - When you ping the bot, it now displays the prefix and help command. <br />
