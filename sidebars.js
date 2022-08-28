@@ -38,6 +38,11 @@ const sidebars = {
       items: ['Commands/admin', 'Commands/economy', 'Commands/social', 'Commands/fun', 'Commands/misc', 'Commands/shop', 'Commands/dev'],
       collapsible: true,
       collapsed: true,
+    },
+    {
+      type: 'doc',
+      id: 'changelog',
+      label: 'Changelog',
     }
   ],
 };
