@@ -3,8 +3,8 @@ id: slash-commands
 ---
 
 # Slash Commands
-DankRPG currently doesn't plan to fully switch over to slash commands. However, some slash commands will be supported as more Discord bots move towards them.
-DankRPG is not *required* to support slash commands, as it has permissions for the [message content intent](https://support-dev.discord.com/hc/en-us/articles/4404772028055). Message Content is used only for reading prefixes, and parameters for commands. You can verify this on [Github](https://github.com/Snoozeds/DankRPG) if you'd like.
+DankRPG doesn't plan to switch over to slash commands. However, some slash commands will be supported as more Discord bots move towards them. <br />
+DankRPG is not *required* to support slash commands, as it has permissions for the [message content intent](https://support-dev.discord.com/hc/en-us/articles/4404772028055).<br /> Message Content is used only for reading prefixes, and parameters for commands. You can verify this on [Github](https://github.com/Snoozeds/DankRPG) if you'd like.
 
 ## Commands
 
