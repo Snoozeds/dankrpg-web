@@ -41,6 +41,11 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'slash-commands',
+      label: 'Slash Commands',
+    },
+    {
+      type: 'doc',
       id: 'changelog',
       label: 'Changelog',
     }
