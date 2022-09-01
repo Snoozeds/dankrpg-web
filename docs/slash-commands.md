@@ -8,7 +8,7 @@ DankRPG is not *required* to support slash commands, as it has permissions for t
 
 ## Commands:
 
-# Fun:
+## Fun:
 
 ## /coinflip
 Flips a coin.
@@ -42,7 +42,7 @@ Shows information about the current server.
 **Required parameters:** `user` <br />
 Shows information about a user, or yourself.
 
-# User Settings:
+## User Settings:
 Also see the [user settings guide](https://dankrpg.xyz/docs/The-Basics/user-settings).
 
 ## /settings
