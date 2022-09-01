@@ -60,3 +60,15 @@ Toggles family mode on or off. Family mode is a setting that removes all swearin
 **Required parameters:** `true/false` <br />
 **True = Users can interact. | False = Users can't interact.** <br />
 Toggles user interactions on or off. User interactions are when users ping/mention you in certain commands.
+
+## Server Settings:
+Also see the [server settings guide](https://dankrpg.xyz/docs/The-Basics/server-settings).
+
+## /changeprefix
+**Required parameters:** `prefix` <br />
+Changes the prefix of the current server. Must be less than 8 characters, and have the required permissions (see below).
+
+## /permissions
+**Required parameters:** `manageserver/admin` <br />
+**Manageserver = Manageserver permissions. | Admin = Admin permissions.** <br />
+Changes the permissions required for admin commands, and server settings.
