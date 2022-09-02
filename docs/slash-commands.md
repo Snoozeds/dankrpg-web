@@ -10,56 +10,56 @@ DankRPG is not *required* to support slash commands, as it has permissions for t
 
 ## Fun:
 
-## /coinflip
+### /coinflip
 Flips a coin.
 
-## /meme
+### /meme
 Sends a random meme.
 
-## /neko
+### /neko
 Sends a random neko from our own api, [nekos.rest](https://nekos.rest).
 
-# Misc:
+## Misc:
 
-## /commands
+### /commands
 Shows all commands. Not all of them are slash commands.
 
-## /info
+### /info
 Shows information about DankRPG.
 
-## /prefix
+### /prefix
 Currently checks the prefix of the current server.
 
-## /profile
+### /profile
 **Required parameters:** `user` <br />
 Shows the profile of a user, or yourself.
 
-## /say
+### /say
 **Required parameters:** `text` <br />
 Says something as DankRPG.
 
-## /serverinfo
+### /serverinfo
 Shows information about the current server.
 
-## /userinfo
+### /userinfo
 **Required parameters:** `user` <br />
 Shows information about a user, or yourself.
 
 ## User Settings:
 Also see the [user settings guide](https://dankrpg.xyz/docs/The-Basics/user-settings).
 
-## /settings
+### /settings
 Displays the settings menu, and your current settings. You can also click on the highlighted slash text.
 
-## /changecolor
+### /changecolor
 **Required parameters:** `color` <br />
 Changes the left color of all of **your** embeds, you can find a color picker [here](https://colorpicker.me)
 
-## /familymode
+### /familymode
 **Required parameters:** `true/false` <br />
 Toggles family mode on or off. Family mode is a setting that removes all swearing and references from the DankRPG.
 
-## /userinteractions
+### /userinteractions
 **Required parameters:** `true/false` <br />
 **True = Users can interact. | False = Users can't interact.** <br />
 Toggles user interactions on or off. User interactions are when users ping/mention you in certain commands.
@@ -67,11 +67,11 @@ Toggles user interactions on or off. User interactions are when users ping/menti
 ## Server Settings:
 Also see the [server settings guide](https://dankrpg.xyz/docs/The-Basics/server-settings).
 
-## /changeprefix
+### /changeprefix
 **Required parameters:** `prefix` <br />
 Changes the prefix of the current server. Must be less than 8 characters, and have the required permissions (see below).
 
-## /permissions
+### /permissions
 **Required parameters:** `manageserver/admin` <br />
 **Manageserver = Manageserver permissions. | Admin = Admin permissions.** <br />
 Changes the permissions required for admin commands, and server settings.
