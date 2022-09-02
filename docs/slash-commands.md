@@ -21,6 +21,9 @@ Sends a random neko from our own api, [nekos.rest](https://nekos.rest).
 
 # Misc:
 
+## /commands
+Shows all commands. Not all of them are slash commands.
+
 ## /info
 Shows information about DankRPG.
 
