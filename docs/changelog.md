@@ -4,6 +4,34 @@ id: changelog
 
 # Changelog
 
+## Version 25:
+
+**Fixes/Changes:** <br />
+- Removed `feedback` command <br />
+- Removed `itemlist` command <br />
+- Changed layout of `commands` <br />
+- `addcoins` & `removecoins` are now "admin commands" <br />
+- Fixed banner link appearing in /userinfo when the user didn't have a banner. <br />
+
+**New:**
+- Command Category: Admin Commands <br />
+- Permissions setting (server): Change the required permission for serversettings/admin commands <br />
+- Completely re-written website and docs! See here: <https://dankrpg.xyz>, <https://dankrpg.xyz/docs> <br />
+- ***Every*** command is now explained in the docs. You're welcome. <br />
+- /serverinfo <br />
+- /commands <br />
+
+**/settings :** <br />
+- /changecolor `#hexID` <br />
+- /familymode `true/false` <br />
+- /userinteractions `true/false`
+
+**/serversettings :** <br />
+- /changeprefix `prefix` <br />
+- /permissions `manageserver/admin` <br /> <br />
+
+**Commits changelog**: https://github.com/Snoozeds/DankRPG/compare/v24...v25
+
 ## Version 24:
 **Fixes/Changes:** <br />
 - Upgrade to aoi 5.5.5 <br />
