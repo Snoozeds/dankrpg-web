@@ -45,6 +45,9 @@ Shows information about the current server.
 **Required parameters:** `user` <br />
 Shows information about a user, or yourself.
 
+### /shop
+Shows the shop.
+
 ## User Settings:
 Also see the [user settings guide](https://dankrpg.xyz/docs/The-Basics/user-settings).
 
