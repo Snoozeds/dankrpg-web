@@ -8,6 +8,9 @@ id: shop
 ## shop
 Displays the shop, and all items left in stock.
 
+## megashop
+Displays the mega shop, for items/upgrades bought with [mega coins](https://dankrpg.xyz/docs/The-Basics/variables).
+
 ## petshop
 Displays the pet shop.
 
