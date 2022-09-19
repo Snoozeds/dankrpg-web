@@ -33,7 +33,12 @@ Forage for materials. Chances for 15-20 of: <br />
 Bet on a slot machine. Chance to win: 1/4.
 
 ## dungeon
-Start a dungeon. Has a chance for coins, or an enemy.
+**Rules: Must have at least 500 Coins** <br />
+**Fail event (no MegaSword): Lose between (rounded): Coins/4 - Coins/5** <br />
+**Fail event (with MegaSword): Lose between (rounded): Coins/6 - Coins/7** <br />
+**Reward event: Gain either 500-1000 Coins, or 1 MegaCoin** <br />
+Starts a dungeon. <br />
+Has chances for a fail event, or a reward event.
 
 ## mine
 **Rules: Mining takes 10 minutes of real time.** <br />
