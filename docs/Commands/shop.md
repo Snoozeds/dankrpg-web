@@ -42,6 +42,9 @@ Upgrades your ATK for: `500 Coins x Current ATK`
 **Optional arguments: `<item> <amount/all>`** <br />
 Sells the specified item.
 
+## sellall
+Sells all items in your inventory.
+
 :::danger
 If no arguments are specified, all of your items in your inventory will be sold.
 :::

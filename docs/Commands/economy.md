@@ -52,8 +52,9 @@ Start mining. Random chances for: <br />
 **Required arguments: `<user> <amount>`** <br />
 Give coins to another user.
 
-## sellall
-Sells all your items in your [inventory](#inventory).
+## vote
+**Rules: You can only vote once every 24 hours on top.gg** <br />
+Vote for DankRPG on top.gg for a reward of 500 Coins, and 1 MegaCoin.
 
 :::danger
 This will sell all your items (stone, slime, wood, rabbit, moose, deer, fox). Some of these items can be used to craft things, and you can sell items individually.
