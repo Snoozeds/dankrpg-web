@@ -4,6 +4,29 @@ id: changelog
 
 # Changelog
 
+## Version 26
+
+### Fixes/Changes:
+- Fixed an incorrect cooldown in `userinfo`.
+- Fixed slash command cooldowns.
+- Reworked nekos.rest, meaning quicker response times and new images.
+- Added an error to `repeat`, `addcoins` and `removecoins` when no arguments are specified.
+- Changed the cooldown of `achievements` from `5s` to `10s`.
+- Fixed various bugs with pets.
+- Reduced the mine **cooldown** to MiningTime + 1m.
+- Various other miscellaneous/bug fixes.
+- You now get `1x MegaCoin` and `500 Coins` for voting.
+- You no longer get a DM confirmation after voting.
+
+### New:
+- Added support for cooldown embeds.
+- MegaCoins! buy upgrades in `d!megashop` to help you earn more MegaCoins and Coins.
+- Earn MegaCoins by either voting, or through the DailyMC upgrade in `d!megashop`.
+- Items: **Mega Pickaxe**, **Mega Sword**
+- /shop <br /> <br />
+
+**Commits changelog**: https://github.com/Snoozeds/DankRPG/compare/v25...v26
+
 ## Version 25:
 
 **Fixes/Changes:** <br />
