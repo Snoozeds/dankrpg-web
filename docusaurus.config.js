@@ -110,6 +110,10 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.com/invite/Cc3xBSpWeB',
+              },
+              {
+                label: 'Donate',
+                href: 'https://www.paypal.com/donate/?hosted_button_id=74BFSJFEZCRA4',
               }
             ],
           },
