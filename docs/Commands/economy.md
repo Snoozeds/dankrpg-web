@@ -28,7 +28,7 @@ Forage for materials. Chances for 15-20 of: <br />
 
 ## slots
 **Required arguments: `<amount>`** <br />
-**Rules: Must bet more than 50 Coins** <br />
+**Rules: Must bet more than 50 Coins, user must not have family mode.** <br />
 **Related achievements: [Slots Addict](https://dankrpg.xyz/docs/The%20Basics/achievements#3-slots-addict)** <br />
 Bet on a slot machine. Chance to win: 1/4.
 
@@ -80,13 +80,14 @@ Random chances for 1 of: <br />
 
 ## blackjack
 **Required arguments: `<bet amount>`** <br />
-**Rules: Not an actual game of blackjack, due to my limited coding knowledge.** <br />
+**Rules: User must not have family mode.** <br />
 You start with a random hand of 12-13 cards. <br />
 The dealer starts with a random hand of 10-12 cards. <br />
 Both hitting and standing have a 1/3 chance of winning double your bet.
 
 ## gamble
 **Required arguments: `<bet amount>`** <br />
+**Rules: User must not have family mode.** <br />
 Gamble with your coins. Has a 1/3 chance of winning double your bet.
 
 ## inventory
