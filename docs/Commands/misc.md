@@ -36,3 +36,7 @@ Displays the user's banner and link to it.
 ## achievements
 **Optional arguments: `<user>`** <br />
 Displays the user's [achievements](https://dankrpg.xyz/docs/The-Basics/achievements).
+
+## commandinfo
+**Required arguments: `<command>`** <br />
+Displays info about a command, including the command name and alias.
