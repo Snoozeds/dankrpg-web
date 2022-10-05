@@ -4,9 +4,41 @@ id: changelog
 
 # Changelog
 
+## Version 27
+
+**Important Changes:**
+- Reduced the response times for `inventory`, `profile (p)` and `achievements`.
+- The Family Mode setting now disables gambling commands instead.
+- Fixed being able to buy `Daily MC Amount` without having enough MegaCoins.
+- `vote` now gives 1HP Potion
+
+**New:**
+- `HP Potion - Heals you to your MaxHP.` (`usehp`). 
+- `iteminfo <item>`
+- `commandinfo <command>`
+- `usehp`
+
+- `/8ball <question>`
+- `/kill <user>`
+- `/slap <user>`
+- `/hug <user>`
+- `/laugh`
+- `/wave`
+
+**Misc Fixes/Changes:**
+- Made `megashop` look nicer.
+- Fixed some item descriptions in `shop`.
+- Added item emojis to `inventory`.
+- Added MegaCoins to `/profile` too.
+- Fixed various bug/grammar issues.
+- Added more outcomes to `kill`.
+- Added an error to `hug` when there's no mentioned user. <br /> <br />
+
+**Commits changelog: https://github.com/Snoozeds/DankRPG/compare/v26...v27**
+
 ## Version 26
 
-### Fixes/Changes:
+**Fixes/Changes:**
 - Fixed an incorrect cooldown in `userinfo`.
 - Fixed slash command cooldowns.
 - Reworked nekos.rest, meaning quicker response times and new images.
@@ -18,7 +50,7 @@ id: changelog
 - You now get `1x MegaCoin` and `500 Coins` for voting.
 - You no longer get a DM confirmation after voting.
 
-### New:
+**New:**
 - Added support for cooldown embeds.
 - MegaCoins! buy upgrades in `d!megashop` to help you earn more MegaCoins and Coins.
 - Earn MegaCoins by either voting, or through the DailyMC upgrade in `d!megashop`.
