@@ -78,3 +78,17 @@ Changes the prefix of the current server. Must be less than 8 characters, and ha
 **Required parameters:** `manageserver/admin` <br />
 **Manageserver = Manageserver permissions. | Admin = Admin permissions.** <br />
 Changes the permissions required for admin commands, and server settings.
+
+### /kill
+**Required parameters:** `user` <br />
+Kills a user
+
+### /hug
+**Required parameters:** `user` <br />
+Hugs a user.
+
+### /wave
+Sends a waving GIF.
+
+### /laugh
+Sends a laughing GIF.
