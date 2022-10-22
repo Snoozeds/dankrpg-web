@@ -56,10 +56,6 @@ Give coins to another user.
 **Rules: You can only vote once every 24 hours on top.gg** <br />
 Vote for DankRPG on top.gg for a reward of 500 Coins, and 1 MegaCoin.
 
-:::danger
-This will sell all your items (stone, slime, wood, rabbit, moose, deer, fox). Some of these items can be used to craft things, and you can sell items individually.
-:::
-
 ## pethunt
 **Rules: Requires a pet, takes 10 minutes of real time.** <br />
 **Upgrades: Your pet hunts double the animals (4 animals) after buying Bait (100 Slime)** <br />

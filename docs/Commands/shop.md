@@ -42,9 +42,13 @@ Upgrades your ATK for: `500 Coins x Current ATK`
 **Optional arguments: `<item> <amount/all>`** <br />
 Sells the specified item.
 
+:::danger
+If no arguments are specified, all of your items in your inventory will be sold.
+:::
+
 ## sellall
 Sells all items in your inventory.
 
 :::danger
-If no arguments are specified, all of your items in your inventory will be sold.
+This will sell all your items (stone, slime, wood, rabbit, moose, deer, fox). Some of these items can be used to craft things, and you can sell items individually.
 :::
