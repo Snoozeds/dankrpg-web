@@ -2432,7 +2432,6 @@ autoprefixer@^10.3.7, autoprefixer@^10.4.7:
     fraction.js "^4.2.0"
     normalize-range "^0.1.2"
     picocolors "^1.0.0"
-    postcss-value-parser "^4.2.0"
 
 axios@^0.25.0:
   version "0.25.0"
@@ -2447,7 +2446,7 @@ babel-loader@^8.2.5:
   integrity sha512-OSiFfH89LrEMiWd4pLNqGz4CwJDtbs2ZVc+iGu2HrkRfPxId9F2anQj38IxWpmRfsUY0aBZYi1EFcd3mhtRMLQ==
   dependencies:
     find-cache-dir "^3.3.1"
-    loader-utils "^2.0.0"
+    loader-utils "^3.2.0"
     make-dir "^3.1.0"
     schema-utils "^2.6.5"
 
