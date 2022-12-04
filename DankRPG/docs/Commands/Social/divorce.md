@@ -1,0 +1,1 @@
+Divorces the user you are married to (see [/marriage](../Stats/marriage).)

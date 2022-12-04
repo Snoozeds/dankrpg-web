@@ -1,0 +1,1 @@
+Starts your RPG adventure. Required to run before certain commands.

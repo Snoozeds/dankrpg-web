@@ -1,0 +1,1 @@
+Will return DankRPG's uptime (the amount of time it has been up since the last restart.)

@@ -1,0 +1,1 @@
+Will return the bot's websocket latency.
