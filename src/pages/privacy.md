@@ -1,12 +1,12 @@
 # DankRPG - Privacy
-Last updated: December 4, 2022
+Last updated: December 7, 2022
 
-DankRPG is a Discord bot that allows you to play RPG games in your Discord server. This privacy policy is to inform you of what data we collect, how we use it, and what choices you have.
+This privacy policy ("Policy") is to inform you of what data DankRPG ("us" or "we") collects, how we use it, and what choices you have.
 
 ## Agreement:
 
-By using DankRPG, or its website, visible at https://dankrpg.xyz, you agree to this privacy policy. <br></br>
-If you do not agree to this policy, you may not use DankRPG.
+By using DankRPG, or its website, visible at https://dankrpg.xyz, you agree to this Policy. <br></br>
+If you do not agree to this Policy, you may not use DankRPG.
 
 ## Cloudflare:
 
@@ -46,9 +46,9 @@ We encourage you to read the privacy policies of those sites.
 
 ## Contacting Us:
 
-If you have any questions regarding this privacy policy, you may contact us at [our email](mailto:support@snoozeds.com), or [Discord server](https://discord.com/invite/Cc3xBSpWeB) **(preferred).**
+If you have any questions regarding this Policy, you may contact us at [our email](mailto:support@snoozeds.com), or [Discord server](https://discord.com/invite/Cc3xBSpWeB) **(preferred).**
 
-## Changes to this policy:
+## Changes to this Policy:
 
-This privacy policy is subject to change at any time, without notice. <br></br>
-However, we will notify you of any changes to this policy by updating the [project's Github](https://github.com/Snoozeds/dankrpg-web) with commits that contain the changes.
+This Policy is subject to change at any time, without notice. <br></br>
+However, we may notify you of any changes to this Policy by updating the [project's Github](https://github.com/Snoozeds/dankrpg-web) with commits that contain the changes.
