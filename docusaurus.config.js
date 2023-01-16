@@ -51,8 +51,8 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/Snoozeds/DankRPG',
-            label: 'GitHub',
+            href: 'https://dankrpg.xyz/invite',
+            label: 'Invite',
             position: 'right',
           },
         ],
