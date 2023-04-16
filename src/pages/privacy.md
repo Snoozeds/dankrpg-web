@@ -1,5 +1,5 @@
 # DankRPG - Privacy
-Last updated: December 7, 2022
+Last updated: April 16, 2023 [(see privacy changelog)](https://dankrpg.xyz/privacy-changelog)
 
 This privacy policy ("Policy") is to inform you of what data DankRPG ("us" or "we") collects, how we use it, and what choices you have.
 
@@ -18,7 +18,7 @@ DankRPG uses Cloudflare to protect our website from DDoS attacks. Cloudflare may
 
 You may see their privacy policy [here](https://www.cloudflare.com/privacypolicy/).
 
-## Data we store:
+## Data we store ('user data'):
 
 DankRPG stores the following data:
 
@@ -39,6 +39,10 @@ DankRPG does not collect any personally identifiable information about you, or a
 
 DankRPG is not subject to any data protection acts, as it does not collect any personally identifiable information.
 
+## Data security:
+
+While DankRPG does not store any personally identifiable information, we still take the security of our services seriously. We use the latest security measures to protect any user data. We take data security seriously and will do our best to address any concerns or issues promptly.
+
 ## Links to other sites:
 
 DankRPG may contain links to other sites. We are not responsible for the privacy practices of other sites. <br></br>
@@ -51,4 +55,4 @@ If you have any questions regarding this Policy, you may contact us at [our emai
 ## Changes to this Policy:
 
 This Policy is subject to change at any time, without notice. <br></br>
-However, we may notify you of any changes to this Policy by updating the [project's Github](https://github.com/Snoozeds/dankrpg-web) with commits that contain the changes.
+However, we may notify you of any changes to this Policy by updating the [project's Github](https://github.com/Snoozeds/dankrpg-web) with commits that contain the changes, and/or by updating the [privacy changelog](https://dankrpg.xyz/privacy-changelog).
