@@ -4,3 +4,6 @@ Will search the urban dictionary for a term.
 
 :::note
 The command will remove any square brackets from the "definition" section, and the section has a 1024 character limit.
+
+:::caution
+Due to the nature of Urban Dictionary, and their/Discord's TOS, this command is NSFW only.
