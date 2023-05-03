@@ -32,17 +32,17 @@ DankRPG stores the following data:
 
 DankRPG uses third-party service providers, including Cloudflare and Vercel, to host and protect our website. As part of their normal operations, these services may collect and process certain data related to our website's visitors, including IP addresses, user agents, and cookies. We do not share any data collected through our website with third parties, except for the data collected by Cloudflare and Vercel as described in their respective privacy policies. <br></br>
 
-## Data we share or sell:
-<b>We will never sell any data collected through our website.</b> <br></br>
-We may share data with third parties in extreme circumstances, such as if we are legally required to do so, or if we believe it is necessary to protect our rights, or the rights of others. <br></br>
-
-### Vercel privacy policy:
+## Vercel privacy policy:
 
 https://vercel.com/legal/privacy-policy
 
-### Cloudflare privacy policy:
+## Cloudflare privacy policy:
 
 https://www.cloudflare.com/privacypolicy/
+
+## Data we share or sell:
+<b>We will never sell any data collected through our website.</b> <br></br>
+We may share data with third parties in extreme circumstances, such as if we are legally required to do so, or if we believe it is necessary to protect our rights, or the rights of others. <br></br>
 
 ## Personally Identifiable Information:
 
