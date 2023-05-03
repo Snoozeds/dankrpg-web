@@ -40,7 +40,7 @@ const config = {
       navbar: {
         title: 'DankRPG',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'DankRPG Logo',
           src: 'img/dankrpg.png',
         },
         items: [

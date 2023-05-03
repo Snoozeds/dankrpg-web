@@ -22,11 +22,10 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by Redis.',
+    title: 'Extensive RPG System.',
     description: (
       <>
-        DankRPG is powered by Redis, a fast and reliable database.
-        You can be sure your data is safe with us.
+        DankRPG has an extensive RPG system, allowing you to fight monsters, go on adventures, buy and sell items, and more.
       </>
     ),
   },
