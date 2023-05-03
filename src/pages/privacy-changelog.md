@@ -1,6 +1,6 @@
 # DankRPG - Privacy Changelog
-### Dates are in GMT/BST where applicable.
-### Please note that this changelog is not exhaustive, and may not include all changes made to the privacy policy. We recommend looking at Github commits for changes, and reading the privacy policy in full.
+Dates are in GMT/BST where applicable.
+Please note that this changelog is not exhaustive, and may not include all changes made to the privacy policy. We recommend looking at Github commits for changes, and reading the privacy policy in full.
 
 ## May 3, 2023.
 Previous change date: April 16, 2023 <br></br>
