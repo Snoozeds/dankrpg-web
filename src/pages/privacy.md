@@ -30,11 +30,11 @@ DankRPG stores the following data:
 
 ## Service providers
 
-DankRPG uses third-party service providers, including Cloudflare and Vercel, to host and protect our website. As part of their normal operations, these services may collect and process certain data related to our website's visitors, including IP addresses, user agents, and cookies. We do not share any data collected through our website with third parties, except for the data collected by Cloudflare and Vercel as described in their respective privacy policies.
+DankRPG uses third-party service providers, including Cloudflare and Vercel, to host and protect our website. As part of their normal operations, these services may collect and process certain data related to our website's visitors, including IP addresses, user agents, and cookies. We do not share any data collected through our website with third parties, except for the data collected by Cloudflare and Vercel as described in their respective privacy policies. <br></br>
 
 ## Data we share or sell:
 <b>We will never sell any data collected through our website.</b> <br></br>
-We may share data with third parties in extreme circumstances, such as if we are legally required to do so, or if we believe it is necessary to protect our rights, or the rights of others.
+We may share data with third parties in extreme circumstances, such as if we are legally required to do so, or if we believe it is necessary to protect our rights, or the rights of others. <br></br>
 
 ### Vercel privacy policy:
 
@@ -61,8 +61,7 @@ DankRPG will retain your data for as long as necessary to provide you with our s
 
 ## Links to other sites:
 
-DankRPG may contain links to other sites. We are not responsible for the privacy practices of other sites. This privacy policy does not affect those sites. <br></br>
-<b>We encourage you to read the privacy policies of those sites.</b>
+DankRPG may contain links to other sites. We are not responsible for the privacy practices of other sites. This privacy policy does not affect those sites.<b>We encourage you to read the privacy policies of those sites.</b> <br></br>
 
 ## Contacting Us:
 
