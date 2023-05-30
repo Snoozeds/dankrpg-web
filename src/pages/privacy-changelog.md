@@ -2,6 +2,15 @@
 Dates are in GMT/BST where applicable.
 Please note that this changelog is not exhaustive, and may not include all changes made to the privacy policy. We recommend looking at Github commits for changes, and reading the privacy policy in full.
 
+## May 30, 2023.
+Previous change date: May 3, 2023 <br></br>
+[Github commit](https://github.com/Snoozeds/dankrpg-web/commit/86f39f5ebec0b932ac6be77e6d017689fa84c64b)
+
+### Changes:
+- Slight grammar change in the 'Data protection acts' section.
+- Slight word change in the 'Data we share or sell' section.
+- Updated the 'Data security section' to provide clarification that absolute data security cannot be guaranteed, while encouraging users to follow best practices. This update does not change our existing policy of not collecting any personally identifiable information.
+
 ## May 3, 2023.
 Previous change date: April 16, 2023 <br></br>
 [Github commit](https://github.com/Snoozeds/dankrpg-web/commit/5198a3378cb726ebcf945b274778cf4d781f0f59)
