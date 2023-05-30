@@ -84,10 +84,6 @@ const config = {
                 label: 'Nekos.rest (API)',
                 href: 'https://nekos.rest',
               },
-              {
-                label: 'DankRPG API (Deprecated)',
-                href: 'https://api.dankrpg.xyz',
-              },
             ],
           },
           {
