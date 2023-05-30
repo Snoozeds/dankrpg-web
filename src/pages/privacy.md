@@ -42,7 +42,7 @@ https://www.cloudflare.com/privacypolicy/
 
 ## Data we share or sell:
 <b>We will never sell any data collected through our website.</b> <br></br>
-We may share data with third parties in extreme circumstances, such as if we are legally required to do so, or if we believe it is necessary to protect our rights, or the rights of others. <br></br>
+We may, however, share data with third parties in extreme circumstances, such as if we are legally required to do so, or if we believe it is necessary to protect our rights or the rights of others. <br></br><br></br>
 
 ## Personally Identifiable Information:
 
@@ -50,11 +50,11 @@ DankRPG does not collect any personally identifiable information about you, or a
 
 ## Data protection acts:
 
-DankRPG is not subject to any data protection acts, as it does not collect any personally identifiable information.
+DankRPG is not subject to any data protection acts as it does not collect any personally identifiable information.
 
 ## Data security:
 
-While DankRPG does not store any personally identifiable information, we still take the security of our services seriously. We use the latest security measures to protect any user data. We take data security seriously and will do our best to address any concerns or issues promptly.
+While DankRPG employs the latest security measures to protect user data, it is important to note that absolute data security cannot be guaranteed. Despite our best efforts, the nature of data transmission over the internet carries inherent risks. We continuously enhance our security protocols and adhere to industry best practices, but users are encouraged to take necessary precautions and practice responsible online behavior when using our services.
 
 ## Data retention:
 DankRPG will retain your data for as long as necessary to provide you with our services. <br></br>
