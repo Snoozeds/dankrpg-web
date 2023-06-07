@@ -1,15 +1,15 @@
 # settings
 
 # /settings xpalerts:
-Options: true, false
+Options: true, false <br />
 Will enable/disable xp messages, such as "+1XP" inside commands.
 
 # /settings embedcolor:
-Options: Any hex color
+Options: Any hex color <br />
 Will change the color of embeds that reply to you.
 
 # /settings interactions
-Options: true, false
+Options: true, false <br />
 Will enable/disable interactions from other users. This includes:
 - Marrying
 - Dueling
