@@ -10,4 +10,6 @@ Will change the color of embeds that reply to you.
 
 # /settings interactions
 Options: true, false
-Will enable/disable interactions from other users. This only disables the "marry" command being used on you for now.
+Will enable/disable interactions from other users. This includes:
+- Marrying
+- Dueling
