@@ -16,7 +16,7 @@ const FeatureList = [
     title: 'Privacy focused.',
     description: (
       <>
-        DankRPG prioritises privacy. We are 100% open source, 
+        DankRPG prioritises privacy. We are 100% open source with our code, 
         and you can view our code on <a href="https://github.com/Snoozeds/DankRPG">Github</a>.
       </>
     ),
