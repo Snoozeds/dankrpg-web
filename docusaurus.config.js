@@ -51,15 +51,15 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://status.dankrpg.xyz/status/view',
-            label: 'Status',
-            position: 'right',
-          },
-          {
             href: 'https://dankrpg.xyz/invite',
             label: 'Invite',
             position: 'right',
           },
+          {
+            href: 'https://status.dankrpg.xyz/status/view',
+            label: 'Status',
+            position: 'right',
+          }
         ],
       },
       footer: {
@@ -71,10 +71,6 @@ const config = {
               {
                 label: 'Docs',
                 to: '/docs/Welcome',
-              },
-              {
-                label: 'Status',
-                href: 'https://status.dankrpg.xyz/status/view',
               },
               {
                 label: 'Privacy Policy',
