@@ -1,0 +1,1 @@
+Unequips the currently equipped armor item.
