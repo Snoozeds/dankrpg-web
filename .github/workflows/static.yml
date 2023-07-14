@@ -33,11 +33,19 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      - name: Upload docs folder
+        uses: actions/upload-artifact@v2
         with:
-          # Upload src folder
+          # Upload the /docs folder
+          path: './docs'
+      - name: Upload src folder
+        uses: actions/upload-artifact@v2
+        with:
+          # Upload the /src folder
           path: './src'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          # Specify the source directory for deployment
+          source: './docs'
