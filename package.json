@@ -1,0 +1,16 @@
+{
+  "name": "dankrpg-web",
+  "version": "1.0.0",
+  "description": "A website for DankRPG",
+  "main": "index.js",
+  "scripts": {
+    "tailwind build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "docsify serve": "docsify serve ./docs"
+  },
+  "keywords": [],
+  "author": "Snoozeds",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
