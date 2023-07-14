@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/dist/output.css" rel="stylesheet" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <title>DankRPG</title>
+  </head>
+  <body
+    class="font-DMSans dark:bg-dark-purple transition duration-300 ease-in-out"
+  >
+    <!-- Navbar -->
+    <header>
+      <nav class="container flex items-center py-4 mt-4 sm:mt-12">
+        <div class="flex items-center space-x-2">
+          <img
+            src="https://assets.dankrpg.xyz/Images/dankrpg.png"
+            alt="Logo"
+            width="20%"
+            height="20%"
+          />
+          <div class="text-color-black text-xl dark:text-color-white">
+            DankRPG
+          </div>
+        </div>
+        <ul
+          id="menu"
+          class="flex items-center sm:justify-beginning justify-end flex-1 space-x-2"
+        >
+          <li>
+            <a
+              href="https://dankrpg.xyz/Invite"
+              class="text-color-black hover:text-color-purple dark:text-color-white dark:hover:text-color-purple"
+              >Invite</a
+            >
+          </li>
+          <li>
+            <a
+              href="/docs"
+              class="text-color-black hover:text-color-purple dark:text-color-white dark:hover:text-color-purple"
+              >Docs</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://discord.gg/Cc3xBSpWeB"
+              class="text-color-black hover:text-color-purple dark:text-color-white dark:hover:text-color-purple"
+              >Support</a
+            >
+          </li>
+          <li>
+            <a
+              href="/docs/#/privacy"
+              class="text-color-black hover:text-color-purple dark:text-color-white dark:hover:text-color-purple"
+              >Privacy</a
+            >
+          </li>
+          <li>
+            <a
+              class="text-color-black hover:text-color-purple cursor-pointer flex items-center dark:text-color-white dark:hover:text-color-purple"
+            >
+              <i id="themeIcon" class="material-symbols-outlined">dark_mode</i>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Hero -->
+    <section class="relative">
+      <div
+        class="container flex flex-col-reverse lg:flex-row items-center gap-12 mt-14 lg:mt-28"
+      >
+        <div class="flex flex-1 flex-col items-center lg:items-start">
+          <h2
+            class="text-color-black dark:text-color-white font-medium text-3xl md:text-4 lg:text-5xl text-center lg:text-left mb-6"
+          >
+            A Discord RPG bot<span
+              class="text-color-purple dark:text-purple-500 font-semibold"
+            >
+              that has you in mind.</span
+            >
+          </h2>
+          <p
+            class="text-color-black dark:text-color-white text-lg text-center lg:text-left mb-6"
+          >
+            Embark on adventures, earn currency, and unlock a variety of
+            powerful items with DankRPG. Invite now for an entertaining
+            experience like no other!
+          </p>
+          <div class="flex justify-center flex-wrap gap-6">
+            <button
+              type="button"
+              class="btn btn-purple hover:bg-color-white hover:text-black"
+            >
+              <a href="https://dankrpg.xyz/invite" target="_blank">Invite now</a>
+            </button>
+            <button
+              type="button"
+              class="btn btn-white hover:bg-color-blue hover:text-white"
+            >
+              <a href="/docs">Learn more</a>
+            </button>
+          </div>
+        </div>
+        <div
+          class="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 lg:justify-end image-container"
+        >
+          <img
+            src="/img/feed.png"
+            alt="Hero"
+            class="w-2/4 h-2/4 hidden sm:block md:w-3/4 md:h-3/4"
+          />
+        </div>
+      </div>
+    </section>
+    <!-- Features -->
+    <section class="bg-color-white py-20 mt-20 lg:mt-60 dark:bg-dark-purple">
+      <!-- Heading -->
+      <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
+        <h1
+          class="text-color-black dark:text-color-white font-semibold text-3xl text-center mb-6"
+        >
+          Features
+        </h1>
+        <p
+          class="text-color-black dark:text-color-white text-lg text-center mb-6"
+        >
+          DankRPG is packed with features that will keep you engaged. Here are
+          some of the most notable ones that it has to offer.
+        </p>
+      </div>
+
+      <!-- Feature 1 -->
+      <div class="relative mt-20 lg:mt-24">
+        <div
+          class="container flex flex-col lg:flex-row items-center justify-center gap-x-24"
+        >
+          <!-- Image -->
+          <div
+            class="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 lg:justify-end image-container"
+          >
+            <img
+              src="/img/feature1.png"
+              alt="Feature 1"
+              class="w-full h-full hidden sm:block md:h-3/5 md:w-3/5 lg:h-full lg:w-full"
+            />
+          </div>
+          <!-- Content -->
+          <div class="flex flex-1 flex-col items-center lg:items-start">
+            <h2
+              class="text-color-black dark:text-color-white font-semibold text-3xl md:text-4 lg:text-5xl text-center lg:text-left mb-6"
+            >
+              A wide variety of<span
+                class="text-color-purple font-semibold dark:text-purple-500"
+              >
+                different items.</span
+              >
+            </h2>
+            <p
+              class="text-color-black dark:text-color-white text-lg text-center lg:text-left mb-6"
+            >
+              DankRPG has a wide variety of items that you can purchase with its
+              coins currency. These items will make your character more powerful
+              and will help you in your adventures.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- Feature 2 -->
+      <div class="relative mt-20 lg:mt-24">
+        <div
+          class="container flex flex-col lg:flex-row-reverse items-center justify-center gap-x-24"
+        >
+          <!-- Image -->
+          <div
+            class="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 lg:justify-end image-container"
+          >
+            <img
+              src="/img/feature2.png"
+              alt="Feature 2"
+              class="w-full h-full hidden sm:block md:h-3/5 md:w-3/5 lg:h-full lg:w-full"
+            />
+          </div>
+          <!-- Content -->
+          <div class="flex flex-1 flex-col items-center lg:items-start">
+            <h2
+              class="text-color-black dark:text-color-white font-semibold text-3xl md:text-4 lg:text-5xl text-center lg:text-left mb-6"
+            >
+              Entertaining<span
+                class="text-color-purple font-semibold dark:text-purple-500"
+              >
+                user interaction.</span
+              >
+            </h2>
+            <p
+              class="text-color-black dark:text-color-white text-lg text-center lg:text-left mb-6"
+            >
+              DankRPG has a variety of commands that will keep you entertained.
+              These commands range from a social system to a complex duel
+              system.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- Feature 3 -->
+      <div class="relative mt-20 lg:mt-24">
+        <div
+          class="container flex flex-col lg:flex-row items-center justify-center gap-x-24"
+        >
+          <!-- Image -->
+          <div
+            class="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 lg:justify-end image-container"
+          >
+            <img
+              src="/img/feature3.png"
+              alt="Feature 3"
+              class="w-full h-full hidden sm:block md:h-3/5 md:w-3/5 lg:h-full lg:w-full"
+            />
+          </div>
+          <!-- Content -->
+          <div class="flex flex-1 flex-col items-center lg:items-start">
+            <h2
+              class="text-color-black dark:text-color-white font-semibold text-3xl md:text-4 lg:text-5xl text-center lg:text-left mb-6"
+            >
+              Highly-customizable<span
+                class="text-color-purple font-semibold dark:text-purple-500"
+              >
+                user options.</span
+              >
+            </h2>
+            <p
+              class="text-color-black dark:text-color-white text-lg text-center lg:text-left mb-6"
+            >
+              DankRPG has a variety of user options so you can customize how you
+              want it to function.
+            </p>
+          </div>
+        </div>
+        <script src="./app.js"></script>
+      </div>
+    </section>
+  </body>
+</html>
