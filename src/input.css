@@ -5,13 +5,13 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
 
 .btn {
-    @apply shadow-md py-3 px-6 rounded-md transition duration-300;
-  }
-  
-  .btn-purple {
-    @apply bg-color-blue text-color-white;
-  }
-  
-  .btn-white {
-    @apply bg-color-white text-color-black;
-  }
+  @apply shadow-md py-3 px-6 rounded-md transition duration-300;
+}
+
+.btn-purple {
+  @apply bg-color-blue text-color-white;
+}
+
+.btn-white {
+  @apply bg-color-white text-color-black;
+}
