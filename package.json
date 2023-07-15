@@ -4,8 +4,8 @@
   "description": "A website for DankRPG",
   "main": "index.js",
   "scripts": {
-    "tailwind build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
-    "docsify serve": "docsify serve ./docs"
+    "tailwind-build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "docsify-serve": "docsify serve ./docs"
   },
   "keywords": [],
   "author": "Snoozeds",
