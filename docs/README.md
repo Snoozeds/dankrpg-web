@@ -106,6 +106,7 @@ DankRPG uses the following tools for its website (https://dankrpg.xyz):
 - [Github Pages](https://pages.github.com/) (hosting)
   - [docsify](https://docsify.js.org/) | ([license](https://github.com/docsifyjs/docsify/blob/develop/LICENSE))
   - [docsify-pagination](https://github.com/imyelo/docsify-pagination) | ([license](https://github.com/imyelo/docsify-pagination/blob/master/license))
+  - [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) | ([license](https://github.com/njleonzhang/docsify-edit-on-github/blob/master/LICENSE))
 - [material symbols](https://fonts.google.com/icons) | ([license](https://scripts.sil.org/OFL))
 - [tailwind](https://tailwindcss.com/) | ([license](https://github.com/tailwindlabs/tailwindcss))
 
