@@ -83,25 +83,24 @@ Please note that you will need to be **quite familiar** with Node.js and Discord
 
 DankRPG is developed and maintained by [Snoozeds](https://snoozeds.com) \
 \
-DankRPG uses the following packages for its bot:
+DankRPG currently uses the following packages for its bot:
 
 - [discord.js](https://discord.js.org) | ([license](https://github.com/discordjs/discord.js/blob/main/LICENSE))
 - [@napi-rs/canvas](https://www.npmjs.com/package/@napi-rs/canvas) | ([license](https://github.com/Brooooooklyn/canvas/blob/main/LICENSE))
 - [undici](https://www.npmjs.com/package/undici) | ([license](https://github.com/nodejs/undici/blob/main/LICENSE))
 - [chance](https://www.npmjs.com/package/chance) | ([license](https://github.com/chancejs/chancejs/blob/master/LICENSE))
-- [discord-command-cooldown](https://www.npmjs.com/package/discord-command-cooldown) | ([license](https://opensource.org/license/mit/))
 - [ioredis](https://www.npmjs.com/package/ioredis) | ([license](https://github.com/redis/ioredis/blob/main/LICENSE))
 - [@top-gg/sdk](https://www.npmjs.com/package/@top-gg/sdk) | ([license](https://www.apache.org/licenses/LICENSE-2.0))
 - [topgg-autoposter](https://www.npmjs.com/package/topgg-autoposter) | ([license](https://opensource.org/license/isc-license-txt/))
 - [prettier](https://www.npmjs.com/package/prettier) | ([license](https://github.com/prettier/prettier/blob/main/LICENSE))
 
-DankRPG uses the following APIs for its bot:
+DankRPG currently uses the following APIs for its bot:
 
 - [Discord Bots API](https://discord.com/developers/docs/)
 - [Top.gg API](https://docs.top.gg/)
 - [Nekos.rest](https://docs.nekos.rest/) (Developed by [Snoozeds](https://snoozeds.com).)
 
-DankRPG uses the following tools for its website (https://dankrpg.xyz):
+DankRPG currently uses the following tools for its website (https://dankrpg.xyz):
 
 - [Github Pages](https://pages.github.com/) (hosting)
   - [docsify](https://docsify.js.org/) | ([license](https://github.com/docsifyjs/docsify/blob/develop/LICENSE))
@@ -110,8 +109,9 @@ DankRPG uses the following tools for its website (https://dankrpg.xyz):
 - [material symbols](https://fonts.google.com/icons) | ([license](https://scripts.sil.org/OFL))
 - [tailwind](https://tailwindcss.com/) | ([license](https://github.com/tailwindlabs/tailwindcss))
 
-DankRPG uses the following software for its server:
+DankRPG currently uses the following software for its server:
 - [redis](https://redis.io/) | ([license](https://redis.io/docs/about/license/))
+- [pm2](https://pm2.keymetrics.io/) | ([license](https://github.com/Unitech/pm2/blob/master/GNU-AGPL-3.0.txt))
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) | ([license](https://github.com/louislam/uptime-kuma/blob/master/LICENSE))
 - [ubuntu](https://ubuntu.com/download/server)
 - [docker](https://www.docker.com/)
