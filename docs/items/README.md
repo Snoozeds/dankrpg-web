@@ -9,42 +9,42 @@ A lifesaver is a potion used automatically. It saves you from death, and is cons
 ### Celestial Armor
 Armor of immense strength, said to have been forged by the gods themselves. \
 Attributes: `+50 Armor` \
-Cost: `10,000 Coins`
+Cost: `35,000    Coins`
 
 ### Sunforged Armor
 Extremely rare and formidable armor, forged in the heat of the sun.
 Attributes: `+35 Armor` \
-Cost: `8,500 Coins`
+Cost: `22,500 Coins`
 
 ### Glacial Armor
 Very rare and robust armor, meticulously forged in the coldest of glaciers.
 Attributes: `+30 Armor` \
-Cost: `6,500 Coins`
+Cost: `17,500 Coins`
 
 ### Abyssal Armor
 Rare and powerful armor, imbued with the essence of the deep sea.
 Attributes: `+25 Armor` \
-Cost: `5,500 Coins`
+Cost: `13,500 Coins`
 
 ### Verdant Armor
 Strong and sought-after armor, adorned with the essence of lush greenery.
 Attributes: `+20 Armor` \
-Cost: `4,500 Coins`
+Cost: `10,500 Coins`
 
 ### Sylvan Armor
 Highly coveted and rare armor, emanating the magic of ancient forests.
 Attributes: `+10 Armor` \
-Cost: `3,500 Coins`
+Cost: `7,500 Coins`
 
 ### Topazine Armor
 Relatively common armor, imbued with the essence of the earth.
 Attributes: `+2 Armor` \
-Cost: `2,500 Coins`
+Cost: `4,500 Coins`
 
 ### Stone Ring
 A small ring crafted from stone.
 Attributes: `+1 Armor` \
-Cost: `1,500 Coins`
+Cost: `2000 Coins`
 
 ## Craftables
 ### Axe
