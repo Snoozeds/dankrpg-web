@@ -98,7 +98,6 @@ DankRPG currently uses the following APIs for its bot:
 
 - [Discord Bots API](https://discord.com/developers/docs/)
 - [Top.gg API](https://docs.top.gg/)
-- [Nekos.rest](https://docs.nekos.rest/) (Developed by [Snoozeds](https://snoozeds.com).)
 
 DankRPG currently uses the following tools for its website (https://dankrpg.xyz):
 

@@ -14,6 +14,3 @@ Parameters: `user`
 ## changemymind
 Description: Generate a "Change My Mind" meme. \
 Parameters: ***`text`***
-
-## neko
-Description: Get a random neko image.
