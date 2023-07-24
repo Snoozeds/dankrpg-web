@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /color
 Disallow: /img
 Allow: /
