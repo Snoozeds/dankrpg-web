@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DankRPG - Color</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.js"></script>
+    <style>
+      body {
+        text-align: center;
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="text" data-coloris />
+  </body>
+  <script type="text/javascript">
+    Coloris({
+      themeMode: "dark",
+      theme: "large",
+      alpha: false,
+      clearButton: true,
+      clearLabel: "Clear",
+      closeButton: true,
+      closeLabel: "Close",
+      onChange: (color, input) => {
+        document.body.style.backgroundColor = color;
+      },
+    });
+  </script>
+</html>
