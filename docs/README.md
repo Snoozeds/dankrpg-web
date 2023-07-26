@@ -77,7 +77,7 @@ Certainly! Contributions are welcome, and we would love to see your ideas. You c
 
 ### How do I host my own instance of DankRPG?
 
-Please note that you will need to be **quite familiar** with Node.js and Discord.js to host your own instance of DankRPG. You will also need to be familiar with the command line. Bugs you encounter from discord.js while running a self-hosted instance will **not** be supported, however, if you get an error from DankRPG's code, please report that in the [Github Issues](https://github.com/Snoozeds/DankRPG/issueshttps://github.com/Snoozeds/DankRPG/issues) \
+Please note that you will need to be **quite familiar** with Node.js and Discord.js to host your own instance of DankRPG. You will also need to be familiar with the command line. Bugs you encounter from discord.js while running a self-hosted instance will **not** be supported, however, if you get an error from DankRPG's code, please report that in the [Github Issues](https://github.com/Snoozeds/DankRPG/issues) \
 You may read the [hosting guide](https://github.com/Snoozeds/DankRPG#setup) for more information.
 
 ## Attribution & Thanks:
