@@ -30,8 +30,13 @@ Cooldown: `1h, 5m (if you cancel)`
 
 ## fight
 Description: Fight a monster for coins. \
-Mechanics: The success rate of the fight is based on your damage stat * 4. Your coin reward is increased by your level.
-Cooldown: `10-20s (random)`
+Mechanics: \
+- The enemy's HP is based off of your level * 15 - your level * 30 (random).
+- The enemy's armor is based off of your armor / 4 - your armor / 3 (random).
+- The enemy's damage is based off of your damage / 2 - your damage (random).
+- Defending an attack will minus your armor / 2 from the damage.
+- Fleeing always has a 100% chance of success, but you will lose 1-2% of your coins (random).
+Cooldown: `25-35s (random)`
 
 ## forage
 Description: Forage for items. \

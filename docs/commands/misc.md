@@ -16,6 +16,9 @@ Description: Get the bot's websocket ping.
 ## qm
 Description: Opens the quick menu which allows you to access certain commands faster.
 
+## settings view
+Description: View your current settings.
+
 ## settings embedcolor
 Description: Sets the embed color that you see when you use a command. \
 Parameters: ***`hexcode`***
