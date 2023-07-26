@@ -31,6 +31,10 @@ Parameters: ***`Boolean (true/false)`***
 Description: Toggles user interactions, such as `marry` and `duel`. \
 Parameters: ***`Boolean (true/false)`***
 
+## settings hpdisplay
+Description: Changes how hp is displayed in /profile. \
+Parameters: Options: `hp`, `hp/max hp, `hp/max hp (percent)`, `hp (percent)`
+
 ## time
 Description: Get the current time for the specified timezone. \
 Parameters: ***`timezone`***, `format`
