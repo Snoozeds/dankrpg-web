@@ -31,7 +31,7 @@ Cooldown: `1h, 5m (if you cancel)`
 ## fight
 Description: Fight a monster for coins. \
 Mechanics: \
-- The enemy's HP is based off of your level * 15 - your level * 30 (random).
+- The enemy's HP is based off of your level * 15 - your level * 27 (random).
 - The enemy's armor is based off of your armor / 4 - your armor / 3 (random).
 - The enemy's damage is based off of your damage / 2 - your damage (random).
 - Defending an attack will minus your armor / 2 from the damage.
