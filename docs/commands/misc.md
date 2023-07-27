@@ -35,6 +35,11 @@ Parameters: ***`Boolean (true/false)`***
 Description: Changes how hp is displayed in /profile. \
 Parameters: Options: `hp`, `hp/max hp, `hp/max hp (percent)`, `hp (percent)`
 
+## settings reset
+Description: Resets the specified setting to its default. \
+Parameters: Options: `embedcolor`, `xpalerts`, `interactions`, `hpdisplay`, `All`. \
+Mechanics: `All` will reset all settings.
+
 ## time
 Description: Get the current time for the specified timezone. \
 Parameters: ***`timezone`***, `format`
