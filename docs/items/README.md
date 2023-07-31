@@ -9,7 +9,7 @@ A lifesaver is a potion used automatically. It saves you from death, and is cons
 ### Celestial Armor
 Armor of immense strength, said to have been forged by the gods themselves. \
 Attributes: `+50 Armor` \
-Cost: `35,000    Coins`
+Cost: `30,000    Coins`
 
 ### Sunforged Armor
 Extremely rare and formidable armor, forged in the heat of the sun.
