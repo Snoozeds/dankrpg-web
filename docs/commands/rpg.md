@@ -12,7 +12,8 @@ Cooldown: `30s (no axe), 15s (axe)`
 
 ## daily
 Description: Get your daily coins. \
-Achievements: [Learner](/achievements?id=it-begins) \
+Mechanics: The base coin reward for daily is 500 coins. This is increased by 5% for each consecutive day you collect your daily, and caps at a streak of 30 days in a row. \
+Achievements: [Learner](/achievements?id=it-begins), [Dedicated](/achievements?id=dedicated) \
 Cooldown: `24h`
 
 ## duel
@@ -25,7 +26,6 @@ Mechanics:
 - You may try to escape, but will not recieve any rewards for doing so.
 - Escape chance increases by 5% for each failed attempt, and caps once it goes past 60%.
 - The winner of the duel will receive 250 coins.
-
 Cooldown: `1h, 5m (if you cancel)`
 
 ## fight
@@ -35,7 +35,8 @@ Mechanics: \
 - The enemy's armor is based off of your armor / 4 - your armor / 3 (random).
 - The enemy's damage is based off of your damage / 2 - your damage (random).
 - Defending an attack will minus your armor / 2 from the damage.
-- Fleeing always has a 100% chance of success, but you will lose 1-2% of your coins (random).
+- Fleeing always has a 100% chance of success, but you will lose 1-2% of your coins (random). \
+Achievements: [Feared](/achievements?id=feared) \
 Cooldown: `25-35s (random)`
 
 ## forage

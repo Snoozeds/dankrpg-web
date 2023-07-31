@@ -35,8 +35,8 @@ Parameters: `user`
 ## Serverinfo
 Description: Shows info about the current server
 
-## Skills
-Description: Explains your skills
+## Stats
+Description: Shows your/another user's stats \
 
 ## Userinfo
 Description: Shows info about a user \

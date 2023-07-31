@@ -5,7 +5,7 @@ The current list of Items in the game. Items are used for various things, such a
 ### Lifesaver
 A lifesaver is a potion used automatically. It saves you from death, and is consumed upon use. You can only have one lifesaver at a time.
 
-## Equipment
+## Armor
 ### Celestial Armor
 Armor of immense strength, said to have been forged by the gods themselves. \
 Attributes: `+50 Armor` \
