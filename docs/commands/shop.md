@@ -31,4 +31,5 @@ Description: View the shop.
 Mechanics: There are multiple categories of items in the shop. You can view them by using the select menu.
 
 ## unequip
-Description: Unequips the currently equipped item.
+Description: Unequip an item. \
+Parameters: ***`item`***

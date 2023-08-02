@@ -9,7 +9,7 @@ A lifesaver is a potion used automatically. It saves you from death, and is cons
 ### Celestial Armor
 Armor of immense strength, said to have been forged by the gods themselves. \
 Attributes: `+50 Armor` \
-Cost: `30,000    Coins`
+Cost: `30,000 Coins`
 
 ### Sunforged Armor
 Extremely rare and formidable armor, forged in the heat of the sun.
@@ -45,6 +45,43 @@ Cost: `4,500 Coins`
 A small ring crafted from stone.
 Attributes: `+1 Armor` \
 Cost: `2000 Coins`
+
+## Weapons
+
+### Blade of the Dead
+The Blade of the Dead strikes fear into the hearts of enemies. Its malevolent aura grants the wielder the power to drain life from foes, leaving devastation in their wake.
+Attributes: `+60 Damage, +60% Crit Chance` \
+Cost: `37,000 Coins`
+
+### Divine Wrath
+Carved from a single shard of a fallen comet, the Celestial Edge is a legendary blade imbued with the very essence of the gods.
+Attributes: `40 Damage, +50% Crit Chance` \
+Cost: `30,000 Coins`
+
+### Umbral Eclipse
+A lethal masterpiece forged from shadowy steel, the Umbral eclipse is the perfect fusion of elegance and devastation.
+Attributes: `+30 Damage, +40% Crit Chance` \
+Cost: `23,000 Coins`
+
+### Azureblade
+A legendary sword forged from shimmering azure steel, the Azureblade is the perfect all-rounder for a medium-skilled adventurer.
+Attributes: `+20 Damage, +30% Crit Chance` \
+Cost: `17,000 Coins`
+
+### Zephyr's Breeze
+Crafted with ethereal precision, the Zephyr Breeze cleaves through foes with unmatched speed and grace.
+Attributes: `+15 Damage, +30% Crit Chance` \
+Cost: `13,000 Coins`
+
+### Squire's Honor
+A sword once used by knights across the country, the Squire's Honor is the perfect choice for an adventurer just starting out.
+Attributes: `+10 Damage, +15% Crit Chance` \
+Cost: `7,500 Coins`
+
+### Crimson Dagger
+A fast, strong and cost effective dagger, crafted from crimson.
+Attributes: `+5 Damage, +10% Crit Chance` \
+Cost: `5,000 Coins`
 
 ## Craftables
 ### Axe
