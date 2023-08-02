@@ -16,6 +16,10 @@ Description: Get the bot's websocket ping.
 ## qm
 Description: Opens the quick menu which allows you to access certain commands faster.
 
+## report
+Description: Send a bug report, suggestion, or user report to the developer. \
+Mechanics: This sends a report to the developer. The developer cannot contact you back specifically, but your userID is sent with the report to prevent abuse of the command. This is used to blacklist users that abuse the command.
+
 ## settings view
 Description: View your current settings.
 
