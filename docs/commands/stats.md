@@ -9,6 +9,9 @@ Parameters: `user`
 ## Cooldowns
 Description: Shows cooldowns
 
+## Equipped
+Description: Shows your equipped items.
+
 ## Info
 Description: Shows info about the bot
 
