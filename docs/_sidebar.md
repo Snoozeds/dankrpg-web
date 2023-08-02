@@ -12,3 +12,5 @@
 * [Items](/items/)
 * [Privacy Policy](/privacy)
 * [Privacy Changelog](/privacy-changelog)
+* [Terms of Service](/tos)
+* [Terms of Service Changelog](/tos-changelog)
