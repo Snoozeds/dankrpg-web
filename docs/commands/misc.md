@@ -41,7 +41,7 @@ Parameters: Options: `hp`, `hp/max hp, `hp/max hp (percent)`, `hp (percent)`
 
 ## settings leveldisplay
 Description: Changes how level is displayed in /profile. \
-Parameters: Options: `level | xp`, `level | xp (xp left to next level)`
+Parameters: Options: `level`, `level | xp`, `level | xp (xp left to next level)`
 
 ## settings reset
 Description: Resets the specified setting to its default. \
