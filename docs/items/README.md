@@ -91,3 +91,22 @@ Cost: `5 wood, 10 stone`
 ### Pickaxe
 A tool used for mining stone. Increases your stone drops, xp gain, and decreases your cooldown in `/mine`. \
 Cost: `25 wood, 50 stone`
+
+## Sellable items
+Items able to be sold in `/sell`.
+
+### Demon Wing
+Found by random events in `/fight`.
+Price: `300 Coins`
+
+### Diamond
+Found by random events in `/forage`.
+Price: `250 Coins`
+
+### Wood
+Found by chopping trees in `/chop`.
+Price: `1 Coins`
+
+### Stone
+Found by mining stone in `/mine`.
+Price: `5 Coins`
