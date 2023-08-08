@@ -54,7 +54,3 @@ Parameters: ***`timezone`***, `format`
 
 ## uptime
 Description: Get the bot's uptime.
-
-## urban
-Description: **NSFW Only.** Get the definition of a word from Urban Dictionary. \
-Parameters: ***`word`***

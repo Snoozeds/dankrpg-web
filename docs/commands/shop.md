@@ -33,3 +33,10 @@ Mechanics: There are multiple categories of items in the shop. You can view them
 ## unequip
 Description: Unequip an item. \
 Parameters: ***`item`***
+
+## upgrade apply
+Description: Apply an upgrade. \
+Parameters: ***`item`***
+
+## upgrade view
+Description: View your upgrades. \
