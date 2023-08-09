@@ -3,7 +3,7 @@ These commands are for the RPG system.
 
 ## adventure
 Description: Go on an adventure. 60% chance of getting coins that do not scale. \
-Cooldown: `20-30s (random)`
+Cooldown: `15-20s (random)`
 
 ## chop
 Description: Chop down a tree for wood. \
