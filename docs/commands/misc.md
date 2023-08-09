@@ -43,6 +43,10 @@ Parameters: Options: `hp`, `hp/max hp, `hp/max hp (percent)`, `hp (percent)`
 Description: Changes how level is displayed in /profile. \
 Parameters: Options: `level`, `level | xp`, `level | xp (xp left to next level)`
 
+## setting confirmations
+Description: What type of confirmation dialogues you get when doing certain actions. \
+Parameters: Options: `buying`, `selling`, `all`.
+
 ## settings reset
 Description: Resets the specified setting to its default. \
 Parameters: Options: `embedcolor`, `xpalerts`, `interactions`, `hpdisplay`, `All`. \
