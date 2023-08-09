@@ -24,7 +24,7 @@ Description: Checks how much it would cost to heal to full health (1 coin per 1 
 ## sell
 Description: Sell an item from your inventory. \
 Parameters: ***`item`***, `amount` \
-Mechanics: If you do not enter an amount, it will sell 1 of the item. If you enter an amount, it will sell that amount of the item.
+Mechanics: Will sell `amount` of the specified item. You may also put `max` as the amount to sell all of the specified item.
 
 ## shop
 Description: View the shop.
