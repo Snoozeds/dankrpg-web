@@ -23,7 +23,7 @@ DankRPG is a Discord bot that allows you to play an RPG game in Discord. It offe
 - A wide variety of items, equipment, and enemies.
 - User interactions, such as marrying and duelling other users.
 
-DankRPG is also open source with a permissive license (MIT). This means that you can run your own instance of the bot, and even modify it to your liking. You can find the source code [here](https://github.com/Snoozeds/DankRPG).
+DankRPG is also open source with a permissive license (Apache 2.0). This means that you can run your own instance of the bot, and even modify it to your liking. You can find the source code [here](https://github.com/Snoozeds/DankRPG).
 
 ## Getting started:
 
