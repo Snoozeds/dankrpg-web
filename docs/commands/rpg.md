@@ -46,5 +46,5 @@ Cooldown: `30s`
 
 ## mine
 Description: Mine for stone. \
-Mechanics: If you have a pickaxe, you will get more stone, more xp, and a shorter cooldown. \
+Mechanics: If you have a pickaxe, you will get more stone, more xp, and a shorter cooldown. There is a 30% chance of getting a diamond as well as stone, regardless of owning a pickaxe or not.\
 Cooldown: `30s (no pickaxe), 15s (pickaxe)`
