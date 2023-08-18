@@ -1,3 +1,6 @@
+// This code is licensed under the MIT License.
+// https://github.com/Snoozeds/dankrpg-web
+
 // Dark mode icon
 const themeIcon = document.getElementById("themeIcon");
 
