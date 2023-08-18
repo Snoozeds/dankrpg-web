@@ -37,11 +37,11 @@ Parameters: ***`Boolean (true/false)`***
 
 ## settings hpdisplay
 Description: Changes how hp is displayed in /profile. \
-Parameters: Options: `hp`, `hp/max hp, `hp/max hp (percent)`, `hp (percent)`
+Parameters: Options: `hp`, `hp/max hp, `hp/max hp (percent)`, `hp (percent)`, `hp/max hp (bar)`
 
 ## settings leveldisplay
 Description: Changes how level is displayed in /profile. \
-Parameters: Options: `level`, `level | xp`, `level | xp (xp left to next level)`
+Parameters: Options: `level`, `level | xp`, `level | xp (xp left to next level)`, `level (xp to next level) (bar)`
 
 ## setting confirmations
 Description: What type of confirmation dialogues you get when doing certain actions. \
