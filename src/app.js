@@ -23,6 +23,19 @@ const setTheme = () => {
   }
 };
 
+// Set theme based on prefers
+const setThemePrefers = () => {
+  if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    document.documentElement.classList.add("dark");
+    localStorage.setItem("theme", "dark");
+    toggleIcon("dark");
+  } else {
+    document.documentElement.classList.remove("dark");
+    localStorage.setItem("theme", "light");
+    toggleIcon("light");
+  }
+};
+
 // Check theme
 const checkTheme = () => {
   if (localStorage.getItem("theme") === "dark") {
@@ -39,3 +52,4 @@ themeIcon.addEventListener("click", () => setTheme());
 
 // Check theme on load
 checkTheme();
+window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => setThemePrefers());
