@@ -37,11 +37,13 @@ Parameters: ***`Boolean (true/false)`***
 
 ## settings hpdisplay
 Description: Changes how hp is displayed in /profile. \
-Parameters: Options: `hp`, `hp/max hp, `hp/max hp (percent)`, `hp (percent)`, `hp/max hp (bar)`
+Parameters: Options: `hp`, `hp/max hp,` `hp/max hp (percent)`, `hp (percent)`, `hp/max hp (bar)` \
+Note: The bar setting is not recommended for mobile devices, as it extends the embed past the point that mobile allows. See [mobile](https://cdn.discordapp.com/attachments/1130257222014861343/1142080244145209415/IMG_1878.png) vs [PC](https://cdn.discordapp.com/attachments/923508875418828831/1142079622574514207/image.png).
 
 ## settings leveldisplay
 Description: Changes how level is displayed in /profile. \
-Parameters: Options: `level`, `level | xp`, `level | xp (xp left to next level)`, `level (xp to next level) (bar)`
+Parameters: Options: `level`, `level | xp`, `level | xp (xp left to next level)`, `level (xp to next level) (bar)` \
+Note: The bar setting is not recommended for mobile devices, as it extends the embed past the point that mobile allows. See [mobile](https://cdn.discordapp.com/attachments/1130257222014861343/1142080244145209415/IMG_1878.png) vs [PC](https://cdn.discordapp.com/attachments/923508875418828831/1142079622574514207/image.png).
 
 ## setting confirmations
 Description: What type of confirmation dialogues you get when doing certain actions. \
