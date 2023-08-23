@@ -36,11 +36,11 @@ Description: Toggles user interactions, such as `marry` and `duel`. \
 Parameters: ***`Boolean (true/false)`***
 
 ## settings hpdisplay
-Description: Changes how hp is displayed in /profile. \
+Description: Changes how hp is displayed to you in /profile. \
 Parameters: Options: `hp`, `hp/max hp,` `hp/max hp (percent)`, `hp (percent)`, `hp/max hp (bar)` \
 
 ## settings leveldisplay
-Description: Changes how level is displayed in /profile. \
+Description: Changes how level is displayed to you in /profile. \
 Parameters: Options: `level`, `level | xp`, `level | xp (xp left to next level)`, `level (xp to next level) (bar)` \
 
 ## setting confirmations
