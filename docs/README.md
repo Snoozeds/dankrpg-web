@@ -83,6 +83,7 @@ You may read the [hosting guide](https://github.com/Snoozeds/DankRPG#forewarning
 ## Attribution & Thanks:
 
 DankRPG is developed and maintained by [Snoozeds](https://snoozeds.com) \
+Some of the art used in DankRPG is from [Pixeltier](https://pixeltier.itch.io/), [Clockwork Raven](https://clockworkraven.itch.io/), and [Pixellarion_Games](https://pixellarion-games.itch.io/).
 \
 DankRPG currently uses the following packages for its bot:
 
@@ -91,6 +92,8 @@ DankRPG currently uses the following packages for its bot:
 - [undici](https://www.npmjs.com/package/undici) | ([license](https://github.com/nodejs/undici/blob/main/LICENSE))
 - [chance](https://www.npmjs.com/package/chance) | ([license](https://github.com/chancejs/chancejs/blob/master/LICENSE))
 - [ioredis](https://www.npmjs.com/package/ioredis) | ([license](https://github.com/redis/ioredis/blob/main/LICENSE))
+- [express](https://www.npmjs.com/package/express) | ([license](https://github.com/expressjs/express/blob/master/LICENSE)
+- [ms](https://www.npmjs.com/package/ms) | ([license](https://github.com/vercel/ms/blob/master/license.md)
 - [@top-gg/sdk](https://www.npmjs.com/package/@top-gg/sdk) | ([license](https://www.apache.org/licenses/LICENSE-2.0))
 - [topgg-autoposter](https://www.npmjs.com/package/topgg-autoposter) | ([license](https://opensource.org/license/isc-license-txt/))
 - [prettier](https://www.npmjs.com/package/prettier) | ([license](https://github.com/prettier/prettier/blob/main/LICENSE))
