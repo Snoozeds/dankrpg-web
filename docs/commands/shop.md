@@ -36,7 +36,7 @@ Parameters: ***`item`***
 
 ## upgrade apply
 Description: Apply an upgrade. \
-Parameters: ***`item`***
+Parameters: ***`upgrade`***
 
 ## upgrade view
 Description: View your upgrades. \
