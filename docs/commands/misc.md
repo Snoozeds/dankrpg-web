@@ -45,6 +45,7 @@ Parameters: Options: `level`, `level | xp`, `level | xp (xp left to next level)`
 
 ## setting confirmations
 Description: What type of confirmation dialogues you get when doing certain actions. \
+Mechanics: `buying` also adds confirmations to /upgrade apply. \
 Parameters: Options: `buying`, `selling`, `all`.
 
 ## settings reset
