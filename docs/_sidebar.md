@@ -11,7 +11,7 @@
 * [Achievements](/achievements.md)
 * [Items](/items/)
 * Self Hosting
-    - [Global Functions](/self-hosting/globals)
+    - [globals.js](/self-hosting/globals)
 * [Privacy Policy](/privacy)
 * [Privacy Changelog](/privacy-changelog)
 * [Terms of Service](/tos)
