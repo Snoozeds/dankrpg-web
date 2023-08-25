@@ -39,4 +39,4 @@ Description: Apply an upgrade. \
 Parameters: ***`upgrade`***
 
 ## upgrade view
-Description: View your upgrades. \
+Description: View your upgrades.
