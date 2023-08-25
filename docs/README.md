@@ -11,7 +11,7 @@ img[alt="logo"] {display: block; margin-left: auto; margin-right: auto;}
 
 #### DankRPG
 
-# Welcome
+# Welcome <!-- {docsify-ignore} -->
 
 Welcome to the documentation of the DankRPG project. This documentation is intended for users of the bot, as well as developers who wish to run their own instance of the bot.
 
@@ -27,14 +27,14 @@ DankRPG is also open source with a permissive license (Apache 2.0). This means t
 
 ## Getting started:
 
-### Adding DankRPG to your server
+### Adding DankRPG to your server <!-- {docsify-ignore} -->
 
 You can add the bot to your server by clicking [here](https://dankrpg.xyz/invite). You must have the `Manage Server` permission to add the bot to your server. \
 \
 DankRPG also needs certain permissions to function properly. These are included in the link above.
 **Please never give DankRPG administrator permissions.** It does not need them, and it is a security risk.
 
-### Using DankRPG
+### Using DankRPG <!-- {docsify-ignore} -->
 
 DankRPG uses slash commands. This means that you can use the bot by typing `/` in the chat. You can find a list of all commands [here](/commands).
 
@@ -109,6 +109,7 @@ DankRPG currently uses the following tools for its website (https://dankrpg.xyz)
   - [docsify](https://docsify.js.org/) | ([license](https://github.com/docsifyjs/docsify/blob/develop/LICENSE))
   - [docsify-pagination](https://github.com/imyelo/docsify-pagination) | ([license](https://github.com/imyelo/docsify-pagination/blob/master/license))
   - [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) | ([license](https://github.com/njleonzhang/docsify-edit-on-github/blob/master/LICENSE))
+  - [docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse) | ([license](https://github.com/iPeng6/docsify-sidebar-collapse/blob/master/LICENSE))
 - [material symbols](https://fonts.google.com/icons) | ([license](https://scripts.sil.org/OFL))
 - [tailwind](https://tailwindcss.com/) | ([license](https://github.com/tailwindlabs/tailwindcss))
 
