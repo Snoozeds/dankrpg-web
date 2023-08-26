@@ -76,35 +76,35 @@ These functions are used for cooldowns using Redis keys.
 ### checkCooldown(id, command)
 This function checks if the specified user has a cooldown for the specified command.
 ```js
-const { checkCooldown } = require('../global.js');
-await checkCooldown('764564962815115267', 'daily');
+const { cooldown } = require('../global.js');
+await cooldown.check('764564962815115267', 'daily');
 ```
 
 ### setCooldown(id, command, time)
 This function sets a cooldown for the specified user for the specified command for the specified time. The time can be a number in milliseconds, or a string in the format of `1s`, `1m`, `1h`, `1d`, `1w`, `1mo`, or `1y`.
 ```js
-const { setCooldown } = require('../global.js');
-await setCooldown('764564962815115267', 'daily', '1d');
-await setCooldown('764564962815115267', 'daily', 86400000); // 1 day in milliseconds
+const { cooldown } = require('../global.js');
+await cooldown.set('764564962815115267', 'daily', '1d');
+await cooldown.set('764564962815115267', 'daily', 86400000); // 1 day in milliseconds
 ```
 
 ### removeCooldown(id, command)
 This function removes the cooldown for the specified user for the specified command.
 ```js
-const { removeCooldown } = require('../global.js');
-await removeCooldown('764564962815115267', 'daily');
+const { cooldown } = require('../global.js');
+await cooldown.remove('764564962815115267', 'daily');
 ```
 
 ### getCooldown(id, command)
 This function returns the cooldown's time left in milliseconds for the specified user for the specified command.
 ```js
-const { getCooldown } = require('../global.js');
-console.log(await getCooldown('764564962815115267', 'daily'));
+const { cooldown } = require('../global.js');
+console.log(await cooldown.get('764564962815115267', 'daily'));
 ```
 
 ## resetCooldowns(id)
 This function deletes all cooldowns for the specified user.
 ```js
-const { resetCooldowns } = require('../global.js');
-await resetCooldowns('764564962815115267');
+const { cooldown } = require('../global.js');
+await cooldown.reset('764564962815115267');
 ```
