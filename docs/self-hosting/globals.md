@@ -108,3 +108,34 @@ This function deletes all cooldowns for the specified user.
 const { cooldown } = require('../global.js');
 await cooldown.reset('764564962815115267');
 ```
+
+## Quests
+These functions are used for quests.
+
+## quests.listActive()
+This function returns the JSON of all active quests.
+```js
+const { quests } = require('../global.js');
+console.log(await quests.listActive());
+```
+
+## quests.completed(id, userid)
+This function checks if the specified user has completed the specified quest.
+```js
+const { quests } = require('../global.js');
+console.log(await quests.completed('1', '764564962815115267'));
+```
+
+## quests.complete(id, userid)
+This function completes the specified quest for the specified user.
+```js
+const { quests } = require('../global.js');
+await quests.complete(1, '764564962815115267');
+```
+
+## quests.active(id)
+This function checks if the specified quest is active today.
+```js
+const { quests } = require('../global.js');
+console.log(await quests.active(1));
+```
