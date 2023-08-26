@@ -73,14 +73,14 @@ console.log(perc(50, 100));
 ## Cooldown functions
 These functions are used for cooldowns using Redis keys.
 
-### checkCooldown(id, command)
+### cooldown.check(id, command)
 This function checks if the specified user has a cooldown for the specified command.
 ```js
 const { cooldown } = require('../global.js');
 await cooldown.check('764564962815115267', 'daily');
 ```
 
-### setCooldown(id, command, time)
+### cooldown.set(id, command, time)
 This function sets a cooldown for the specified user for the specified command for the specified time. The time can be a number in milliseconds, or a string in the format of `1s`, `1m`, `1h`, `1d`, `1w`, `1mo`, or `1y`.
 ```js
 const { cooldown } = require('../global.js');
@@ -88,21 +88,21 @@ await cooldown.set('764564962815115267', 'daily', '1d');
 await cooldown.set('764564962815115267', 'daily', 86400000); // 1 day in milliseconds
 ```
 
-### removeCooldown(id, command)
+### cooldown.remove(id, command)
 This function removes the cooldown for the specified user for the specified command.
 ```js
 const { cooldown } = require('../global.js');
 await cooldown.remove('764564962815115267', 'daily');
 ```
 
-### getCooldown(id, command)
+### cooldown.get(id, command)
 This function returns the cooldown's time left in milliseconds for the specified user for the specified command.
 ```js
 const { cooldown } = require('../global.js');
 console.log(await cooldown.get('764564962815115267', 'daily'));
 ```
 
-## resetCooldowns(id)
+## cooldown.reset(id)
 This function deletes all cooldowns for the specified user.
 ```js
 const { cooldown } = require('../global.js');
