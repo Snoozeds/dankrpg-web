@@ -38,8 +38,8 @@ Parameters: `user`
 ## Serverinfo
 Description: Shows info about the current server
 
-## Stats
-Description: Shows your/another user's stats \
+## Status
+Description: Shows your/another user's status \
 
 ## Userinfo
 Description: Shows info about a user \
