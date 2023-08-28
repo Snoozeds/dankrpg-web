@@ -28,6 +28,41 @@ Mechanics:
 - The winner of the duel will receive 250 coins.
 Cooldown: `1h, 5m (if you cancel)`
 
+## fish
+Description: Go fishing (Requires at least a Basic Fishing Rod). \
+Mechanics: \
+- Base fishing chances (Basic Fishing Rod, no bait):
+ - common: 65%
+ - uncommon: 25%
+ - rare: 8%
+ - legendary: 2%
+- Fishing chances (Better Fishing Rod, no bait):
+ - common: 50%
+ - uncommon: 30%
+ - rare: 15%
+ - legendary: 5%
+- Fishing chances (Best Fishing Rod, no bait):
+ - common: 30%
+ - uncommon: 35%
+ - rare: 20%
+ - legendary: 15%
+- Fishing chances (Basic Fishing Rod, with bait):
+ - common: 60%
+ - uncommon: 30%
+ - rare: 8%
+ - legendary: 2%
+- Fishing chances (Better Fishing Rod, with bait):
+ - common: 45%
+ - uncommon: 25%
+ - rare: 20%
+ - legendary: 10%
+- Fishing chances (Best Fishing Rod, with bait):
+ - common: 25%
+ - uncommon: 30%
+ - rare: 25%
+ - legendary: 20% \
+Cooldown: `30s`
+
 ## fight
 Description: Fight a monster for coins. \
 Mechanics: \
