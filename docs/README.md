@@ -83,7 +83,7 @@ You may read the [hosting guide](https://github.com/Snoozeds/DankRPG#forewarning
 ## Attribution & Thanks:
 
 DankRPG is developed and maintained by [Snoozeds](https://snoozeds.com) \
-Some of the art used in DankRPG is from [Pixeltier](https://pixeltier.itch.io/), [Clockwork Raven](https://clockworkraven.itch.io/), and [Pixellarion_Games](https://pixellarion-games.itch.io/).
+Some of the art used in DankRPG is from [Pixeltier](https://pixeltier.itch.io/), [Clockwork Raven](https://clockworkraven.itch.io/), [Pixellarion_Games](https://pixellarion-games.itch.io/) and [Beowulf](https://beowulf.itch.io/).
 \
 DankRPG currently uses the following packages for its bot:
 
