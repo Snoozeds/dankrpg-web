@@ -54,7 +54,7 @@ Parameters: ***`Boolean (true/false)`***
 
 ## settings reset
 Description: Resets the specified setting to its default. \
-Parameters: Options: `embedcolor`, `xpalerts`, `interactions`, `hpdisplay`, `All`. \
+Parameters: Options: `embedcolor`, `xpalerts`, `interactions`, `hpdisplay`, `leveldisplay`, `buyconfirmations`, `sellconfirmations`, `stats`, `All`. \
 Mechanics: `All` will reset all settings.
 
 ## time
