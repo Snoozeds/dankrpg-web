@@ -38,6 +38,11 @@ Parameters: `user`
 ## Serverinfo
 Description: Shows info about the current server
 
+## Stats
+Description: Displays in-depth statistics about you/another user and the commands you/they have used \
+Mechanics: Default user is yourself, stats may be disabled if the user has ran `/settings stats false`. \
+Parameters: `user`
+
 ## Status
 Description: Shows your/another user's status \
 
