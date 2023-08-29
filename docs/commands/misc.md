@@ -48,6 +48,10 @@ Description: What type of confirmation dialogues you get when doing certain acti
 Mechanics: `buying` also adds confirmations to /upgrade apply. \
 Parameters: Options: `buying`, `selling`, `all`.
 
+## settings stats
+Description: Toggles stat collection for /stats and /profile. \
+Parameters: ***`Boolean (true/false)`***
+
 ## settings reset
 Description: Resets the specified setting to its default. \
 Parameters: Options: `embedcolor`, `xpalerts`, `interactions`, `hpdisplay`, `All`. \
