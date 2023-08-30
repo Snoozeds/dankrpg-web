@@ -27,6 +27,7 @@ await set('764564962815115267_coins', 100);
 
 ### incr(id, key, value)
 This function increments the value of the specified key by the specified value.
+**Note:** This function already adds "_" between the id and key, so you don't need to add it yourself. You may change this in the global.js file.
 ```js
 const { incr } = require('../global.js');
 await incr('764564962815115267', 'coins', 100);
