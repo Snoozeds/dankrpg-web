@@ -2,6 +2,12 @@
 Dates are in GMT/BST where applicable.
 Please note that this changelog is not exhaustive, and may not include all changes made to the privacy policy. We recommend looking at Github commits for changes, and reading the privacy policy in full.
 
+## August 31, 2023.
+Previous change date: May 30, 2023 <br></br>
+
+### Changes: <!-- {docsify-ignore} -->
+- Added information about statistics collection for the /stats and /profile commands.
+
 ## May 30, 2023.
 Previous change date: May 3, 2023 <br></br>
 [Github commit](https://github.com/Snoozeds/dankrpg-web/commit/86f39f5ebec0b932ac6be77e6d017689fa84c64b)
