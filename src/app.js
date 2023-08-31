@@ -56,3 +56,13 @@ themeIcon.addEventListener("click", () => setTheme());
 // Check theme on load
 checkTheme();
 window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => setThemePrefers());
+
+// Hamburger menu
+document.addEventListener("DOMContentLoaded", function () {
+  const menuButton = document.getElementById("hamburger");
+  const menu = document.getElementById("menu");
+
+  menuButton.addEventListener("click", function () {
+    menu.classList.toggle("hidden");
+  });
+});

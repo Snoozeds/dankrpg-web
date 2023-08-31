@@ -30,6 +30,11 @@
         font-family: "Material Icons";
         font-display: block;
       }
+      @media (max-width: 640px) {
+        #menu {
+          margin-left: 1rem;
+        }
+      }
     </style>
   </head>
   <body class="font-DMSans dark:bg-dark-purple">
@@ -49,9 +54,19 @@
             DankRPG
           </div>
         </div>
+        <div
+          class="flex-1 flex justify-end sm:justify-center visible sm:hidden"
+        >
+          <button
+            id="hamburger"
+            class="text-color-black hover:text-color-purple dark:text-color-white dark:hover:text-color-purple"
+          >
+            <span class="material-symbols-outlined block sm:hidden">menu</span>
+          </button>
+        </div>
         <ul
           id="menu"
-          class="flex items-center sm:justify-beginning justify-end flex-1 space-x-2"
+          class="hidden items-center sm:justify-beginning justify-end flex-1 md:space-x-2 lg:space-x-2 lg:flex md:flex sm:flex"
         >
           <li>
             <a
