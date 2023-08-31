@@ -1,5 +1,5 @@
 # DankRPG - Terms of Service
-Last updated: August 2, 2023. [(see tos changelog)](/tos-changelog)
+Last updated: August 2, 2023. [(see tos changelog)](/policies/tos-changelog)
 
 Please read carefully through these Terms of Service ("Terms") before using DankRPG (the "Service"), or its website, visible at https://dankrpg.xyz operated by DankRPG ("us", "we", or "our"). <br />
 By using DankRPG, or its website, visible at https://dankrpg.xyz, you agree to these Terms. <br />
