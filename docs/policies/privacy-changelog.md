@@ -4,6 +4,7 @@ Please note that this changelog is not exhaustive, and may not include all chang
 
 ## August 31, 2023.
 Previous change date: May 30, 2023 <br></br>
+[Github commit](https://github.com/Snoozeds/dankrpg-web/commit/70fea89d95eee8f55ff93072a5debc3772e719b5#diff-988149000533f9b4221fa9971c872173fab149b91821920f2a156a63cc662be4)
 
 ### Changes: <!-- {docsify-ignore} -->
 - Added information about statistics collection for the /stats and /profile commands.
