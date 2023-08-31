@@ -1,6 +1,6 @@
 # DankRPG - Privacy
 
-Last updated: May 30, 2023 [(see privacy changelog)](/privacy-changelog)
+Last updated: August 31, 2023 [(see privacy changelog)](/privacy-changelog)
 
 This privacy policy ("Policy") is to inform you of what data DankRPG ("us" or "we") collects, how we use it, and what choices you have.
 
