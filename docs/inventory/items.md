@@ -83,6 +83,23 @@ A fast, strong and cost effective dagger, crafted from crimson. \
 Attributes: `+5 Damage, +10% Crit Chance` \
 Cost: `5,000 Coins`
 
+## Fishing
+### Best Fishing Rod
+The best fishing rod money can buy. Greatly increases your chance of catching rarer fish. \
+Cost: `10,000 Coins`
+
+### Better Fishing Rod
+A better fishing rod than the average. Slightly increases your chance of catching rarer fish. \
+Cost: `5,000 Coins`
+
+### Basic Fishing Rod
+A basic fishing rod. Allows you to fish. \
+Cost: `1,000 Coins`
+
+### Fishing Bait
+Bait for fishing. Increases your chance of catching rarer fish by a small amount. Automatically used when equipped. \
+Cost: `50 Coins`
+
 ## Craftables
 ### Axe
 A tool used for chopping wood. Increases your wood drops, xp gain, and decreases your cooldown in `/chop`. \
