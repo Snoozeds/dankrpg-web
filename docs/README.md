@@ -64,8 +64,9 @@ For now, yes. However, there may be 'premium' options in the future. This might 
 
 ### Can I donate to DankRPG?
 
-DankRPG and its main developer currently do not accept donations. However, you may alternatively support the bot by:
+You may support DankRPG by:
 
+- Donating to the maintainer on [Patreon](https://patreon.com/snoozeds). This is monthly, though. You may also send custom amounts monthly or cancel at any time.
 - Contributing to the bot's code, if you are a developer. Read the next question for more information.
 - Voting for it on [top.gg](https://top.gg/bot/855479925863481345).
 - Using the [Linode referral link](https://www.linode.com/lp/refer/?r=2f0b0fc7f85a9c71619bd2f30b9e970e60b2c168).
