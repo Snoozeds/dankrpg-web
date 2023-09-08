@@ -30,6 +30,33 @@ Mechanics: Will sell `amount` of the specified item. You may also put `max` as t
 Description: View the shop.
 Mechanics: There are multiple categories of items in the shop. You can view them by using the select menu.
 
+## pet buy
+Description: Buy a pet or pet item from the pet shop. \
+Parameters: ***`item`***
+
+## pet equip
+Description: Equip a pet \
+Parameters: ***`pet`***
+Mechanics: Will also unequip your current pet if you have one equipped.
+
+## pet feed
+Description: Feed your equipped pet. \
+Mechanics: Requires that pet's food item.
+
+## pet shop
+Description: View the pet shop.
+
+## pet status
+Description: View your pet's status, such as fullness, happiness, cleanliness, chances.
+
+## pet wash
+Description: Wash your pet. \
+Mechanics: Requires pet shampoo.
+
+## pet unequip
+Description: Unequip your pet.
+
+
 ## unequip
 Description: Unequip an item. \
 Parameters: ***`item`***
@@ -40,3 +67,7 @@ Parameters: ***`upgrade`***
 
 ## upgrade view
 Description: View your upgrades.
+
+## use
+Description: Use an item from your inventory. \
+Parameters: ***`item`***
