@@ -6,6 +6,7 @@ Description: Go on an adventure and encounter random events for coins. Requires 
 Parameters: `times` (default: 1) \
 Mechanics: \
 - Each adventure costs 1 energy.
+Cooldown: `30s * times`
 
 ## chop
 Description: Chop down a tree for wood. \
