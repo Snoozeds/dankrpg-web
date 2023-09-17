@@ -2,8 +2,10 @@
 These commands are for the RPG system.
 
 ## adventure
-Description: Go on an adventure. 60% chance of getting coins that do not scale. \
-Cooldown: `15-20s (random)`
+Description: Go on an adventure and encounter random events for coins. Requires energy. \
+Parameters: `times` (default: 1) \
+Mechanics: \
+- Each adventure costs 1 energy.
 
 ## chop
 Description: Chop down a tree for wood. \
