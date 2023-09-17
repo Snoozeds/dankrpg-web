@@ -1,9 +1,15 @@
 # Items
 The current list of Items in the game. Items are used for various things, such as crafting, quests, and more.
 
-## Health Items
+## Potions
 ### Lifesaver
 A lifesaver is a potion used automatically. It saves you from death, and is consumed upon use. You can only have one lifesaver at a time.
+
+### Luck Potion
+Increases the chance of rare item drops (diamonds and demon wings) by 10% for 10 minutes. Does not affect fishing. Can only have one active at a time.
+
+### Energy Potion
+Gives you 10 energy when consumed which can be used for adventures (each cost 1 energy.) Can use and buy as many as you want.
 
 ## Armor
 ### Celestial Armor
