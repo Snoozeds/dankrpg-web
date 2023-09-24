@@ -63,3 +63,7 @@ Parameters: ***`timezone`***, `format`
 
 ## uptime
 Description: Get the bot's uptime.
+
+## vote
+Description: Vote on top.gg to earn rewards and help the bot reach more users.
+Cooldown (after voting): `12h`
