@@ -82,6 +82,10 @@ Description: Forage for items. \
 Mechanics: There is a 90% chance of finding an item: a 40% chance of obtaining 3-5 (random) wood and a 60% chance of obtaining 3-5 (random) stone. Additionally, there is a 10% chance of finding a diamond instead of an item. \
 Cooldown: `30s`
 
+## inn
+Description: Rest at the inn to instantly gain 10 Energy. 12 Hour Cooldown.
+Cooldown: `12h`
+
 ## mine
 Description: Mine for stone. \
 Mechanics: If you have a pickaxe, you will get more stone, more xp, and a shorter cooldown. There is a 30% chance of getting a diamond as well as stone, regardless of owning a pickaxe or not.\
