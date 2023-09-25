@@ -20,3 +20,6 @@
     - [Privacy Changelog](/policies/privacy-changelog)
     - [Terms of Service](/policies/tos)
     - [Terms of Service Changelog](/policies/tos-changelog)
+* Other Information
+    - [Important Links](/information/links)
+    - [Changelog](/information/changelog)
