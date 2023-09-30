@@ -2,6 +2,49 @@
 This page contains all changes for releases to the Discord.JS version of DankRPG. This does not include all versions ever made. \
 You may alternatively look at the [Github releases](https://github.com/Snoozeds/DankRPG/releases).
 
+## Version 37
+### Important Code Changes:
+- Added 'chalk' as a dependency @ version 4.1.2 (supports requires)
+- Most console.logs now use chalk.
+- `utils/quests.js` is no longer ran as a separate file, and instead is just require()'d inside the main bot file.
+
+### New:
+- **Pets!**
+ - Users can now buy pets and pet items, such as a cat, a dog, a duck, pet food & pet shampoo.
+ - Pets will have a chance of collecting coins and health potions while their owner is away (for more than 30m)
+ - Pets will also need to be kept happy to keep their chances of finding items. You can do this buy feeding and washing your pet with pet food and pet shampoo that you can buy, respectively.
+ - Commands: `/pet buy`, `/pet equip`, `/pet feed`, `/pet shop`, `/pet status`, `/pet wash`, `/pet unequip`, `/pet alerts`.
+- The `/buy` command now has an "amount" option for items that support it.
+- New command: `/use`.
+- New item: Health Potion - heals you for 100 HP. Only able to get from pets.
+- New item: Luck Potion - increases the chance of rare items (diamond, demon wings) by 10% for 10 minutes.
+- New stat: Energy. Currently used for the reworked `/adventure` command. Each adventure costs 1 Energy.
+- `/adventure` has been reworked. There are now multiple outcomes and can now adventure multiple times, but each adventure requires 1 energy.
+- New command: `/inn` - +10 Energy when you run the command. 12 hour cooldown.
+- New item: Energy potion - Gives you 10 energy. Can be used to get around the `/inn` cooldown.
+- Added 2 new daily quests to the `/adventure` command.
+- New command: `/vote` - Vote on top.gg to earn rewards and help the bot reach more users (has always existed, just a command saying so now.)
+
+### Misc Changes:
+- Added the `/fish` command to `/cooldowns`.
+- Improved the `/upgrade view` embed again.
+- Added more responses to `/8ball`.
+- Added coin prices to each `item` choice in `/buy`.
+- The `Health Items` category in `/shop` has been renamed to `Potions`.
+- The `/avatar` command will now display server-specific avatars (if one exists) alongside a user's global avatar, and both download links.
+- The `/inventory` command now displays the total price of each separate category next to that category's name.
+- `/cooldowns` now mentions each command, allowing you to click on them and use them easier.
+
+### Fixes:
+- **Duels are no longer interrupted by server or bot restarts.**
+- **Fixed not being able to buy any of an item that doesn't allow multiple buys/owns.**
+- Fixed `/adventure` failing to run.
+- Fixed `/fish` continuing (and bugging) after you cast but then leave the fishing spot.
+- Fixed user & target damage stats not showing in duels (NOT how much either deals when a turn happens.)
+- Fix profiles saying that stats are disabled underneath "Commands Used" by default.
+- Another potential fix for the number of filled bars for HP/Level bar displays being incorrect (ex. 51.00% being 9/10 bars full.)
+- Added the missing `/fish` command to `/qm`'s cooldown feature.
+
 ## Version 36.1
 A quick release solving bugs found soon after the last release ([v36](https://github.com/Snoozeds/DankRPG/releases/tag/v36))
 
