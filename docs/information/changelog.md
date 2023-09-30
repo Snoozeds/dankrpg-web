@@ -45,6 +45,8 @@ You may alternatively look at the [Github releases](https://github.com/Snoozeds/
 - Another potential fix for the number of filled bars for HP/Level bar displays being incorrect (ex. 51.00% being 9/10 bars full.)
 - Added the missing `/fish` command to `/qm`'s cooldown feature.
 
+**Commit log:** https://github.com/Snoozeds/DankRPG/compare/v36.1...v37
+
 ## Version 36.1
 A quick release solving bugs found soon after the last release ([v36](https://github.com/Snoozeds/DankRPG/releases/tag/v36))
 
