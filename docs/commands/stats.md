@@ -12,6 +12,9 @@ Description: Shows cooldowns
 ## Equipped
 Description: Shows your equipped items.
 
+## Events
+Description: View active and upcoming seasonal events.
+
 ## Info
 Description: Shows info about the bot
 
