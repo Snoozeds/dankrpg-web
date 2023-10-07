@@ -22,5 +22,9 @@ Catch a legendary fish. \
 Reward: 300 coins
 
 ## April Fools!
-Description: Run **any** command between 1st-3rd April \
+Description: Run **any** command between 1st-3rd April. \
 Reward: 500 coins
+
+## Just in Time.
+Description: Run **any** command during an event. \
+Reward: 250 coins

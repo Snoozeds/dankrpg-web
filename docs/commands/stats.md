@@ -1,55 +1,56 @@
 # Stats commands
 Commands that show stats.
 
-## Achievements
+## achievements
 Description: Shows achievements \
 Mechanics: Default user is yourself. \
 Parameters: `user`
 
-## Cooldowns
+## cooldowns
 Description: Shows cooldowns
 
-## Equipped
+## equipped
 Description: Shows your equipped items.
 
-## Events
+## events
 Description: View active and upcoming seasonal events.
+Achievements: [Just in Time.](/achievements?id=just-in-time)
 
-## Info
+## info
 Description: Shows info about the bot
 
-## Inventory
+## inventory
 Description: Shows inventory \
 Mechanics: Default user is yourself. \
 Parameters: `user`
 
-## Levels
+## levels
 Description: Shows levels \
 Mechanics: Default user is yourself. \
 Parameters: `user`
 
-## Marriage
+## marriage
 Description: Shows marriage info \
 Mechanics: Default user is yourself. \
 Parameters: `user`
 
-## Profile
+## profile
 Description: Shows an RPG profile \
 Mechanics: Default user is yourself. \
 Parameters: `user`
 
-## Serverinfo
+## serverinfo
 Description: Shows info about the current server
 
-## Stats
+## stats
 Description: Displays in-depth statistics about you/another user and the commands you/they have used \
 Mechanics: Default user is yourself, stats may be disabled if the user has ran `/settings stats false`. \
 Parameters: `user`
 
-## Status
+## status
 Description: Shows your/another user's status \
 
-## Userinfo
+## userinfo
 Description: Shows info about a user \
 Mechanics: Default user is yourself. \
 Parameters: `user`
