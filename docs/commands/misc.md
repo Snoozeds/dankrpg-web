@@ -8,7 +8,7 @@ Parameters: ***`question`***
 ## commands
 Description: Get a list of commands for the specified category. \
 Parameters: ***`Category`***
-Achievements: [Learner](/achievements?id=learner)
+Achievements: [Learner](/collectibles/achievements?id=learner)
 
 ## ping
 Description: Get the bot's websocket ping.

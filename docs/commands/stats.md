@@ -13,8 +13,8 @@ Description: Shows cooldowns
 Description: Shows your equipped items.
 
 ## events
-Description: View active and upcoming seasonal events.
-Achievements: [Just in Time.](/achievements?id=just-in-time)
+Description: View active and upcoming seasonal events. \
+Achievements: [Just in Time.](/collectibles/achievements?id=just-in-time)
 
 ## info
 Description: Shows info about the bot
