@@ -11,6 +11,8 @@
 * Collectibles
     - [Achievements](/collectibles/achievements)
     - [Item Drops](/collectibles/itemdrops)
+* Misc
+    - [Events](/misc/events)
 * Inventory
     - [Items](/inventory/items)
 * Self Hosting
