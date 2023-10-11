@@ -165,7 +165,7 @@ await cooldown.reset('764564962815115267');
 
 These functions are used for quests.
 
-## quests.listActive()
+### quests.listActive()
 
 This function returns the JSON of all active quests.
 
@@ -174,7 +174,7 @@ const { quests } = require("../../globals.js");
 console.log(await quests.listActive());
 ```
 
-## quests.completed(id, userid)
+### quests.completed(id, userid)
 
 This function checks if the specified user has completed the specified quest.
 
@@ -183,7 +183,7 @@ const { quests } = require("../../globals.js");
 console.log(await quests.completed("1", "764564962815115267"));
 ```
 
-## quests.complete(id, userid)
+### quests.complete(id, userid)
 
 This function completes the specified quest for the specified user.
 
@@ -192,7 +192,7 @@ const { quests } = require("../../globals.js");
 await quests.complete(1, "764564962815115267");
 ```
 
-## quests.active(id)
+### quests.active(id)
 
 This function checks if the specified quest is active today.
 
@@ -200,3 +200,13 @@ This function checks if the specified quest is active today.
 const { quests } = require("../../globals.js");
 console.log(await quests.active(1));
 ```
+
+## Events
+
+These functions are used for **seasonal** [events](/misc/events).
+
+### events.active(name)
+Returns a boolean of whether a quest is active.
+
+### events.embed(id)
+Returns a Discord.JS embed object of the upcoming events. The id option is the Discord user's ID, and is used for the embed's color property.
