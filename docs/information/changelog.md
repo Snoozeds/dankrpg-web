@@ -2,6 +2,22 @@
 This page contains all changes for releases to the Discord.JS version of DankRPG. This does not include all versions ever made. \
 You may alternatively look at the [Github releases](https://github.com/Snoozeds/DankRPG/releases).
 
+## Version 37.1
+### New:
+- **Seasonal events!** - Earn rewards and boosts whenever an event is running.
+ - Halloween: Have the chance of earning candy (that you can sell) from running commands.
+- New command: `/events` - See active and upcoming events.
+
+### Misc Changes:
+- Added more positive outcomes to `/adventure`.
+
+### Fixes:
+- **Fixed not being able to buy a pet.**
+- Fixed the error message in `/pet status` not appearing when you run the command without first equipping a pet.
+- Fixed `/vote` not being mentioned correctly in `/commands` (& `/qm`)
+
+**Commit log:** https://github.com/Snoozeds/DankRPG/compare/v37...v37.1
+
 ## Version 37
 ### Important Code Changes:
 - Added 'chalk' as a dependency @ version 4.1.2 (supports requires)
