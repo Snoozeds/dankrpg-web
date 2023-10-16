@@ -12,6 +12,8 @@ You may alternatively look at the [Github releases](https://github.com/Snoozeds/
 - Fixed stats for `/forage` sometimes increasing by the wrong amount.
 - Fixed fields not being added to `/forage` correctly when finding other items.
 
+**Commit log**: https://github.com/Snoozeds/DankRPG/compare/v37.1...v37.2
+
 ## Version 37.1
 ### New:
 - **Seasonal events!** - Earn rewards and boosts whenever an event is running.
