@@ -2,6 +2,16 @@
 This page contains all changes for releases to the Discord.JS version of DankRPG. This does not include all versions ever made. \
 You may alternatively look at the [Github releases](https://github.com/Snoozeds/DankRPG/releases).
 
+## Version 37.2
+### Misc Changes:
+- `/forage` now has a base 5% chance of giving a demon wing.
+
+### Fixes:
+- **Fixed `/forage` having no cooldown.**
+- Fixed stats for `/forage` not always increasing.
+- Fixed stats for `/forage` sometimes increasing by the wrong amount.
+- Fixed fields not being added to `/forage` correctly when finding other items.
+
 ## Version 37.1
 ### New:
 - **Seasonal events!** - Earn rewards and boosts whenever an event is running.
